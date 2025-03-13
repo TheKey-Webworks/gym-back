@@ -1,3 +1,4 @@
+const { generateToken } = require("../../../config/jsonwebtoken");
 const logger = require("../../../config/winston")
 const { loginPlatformController } = require("../../../controllers/platform/authentication/login.platform.controller")
 
@@ -10,11 +11,16 @@ async function loginPlatformHandler(req, res, next) {
         //realizar logeo
         const { success, message, data, errorCode } = await loginPlatformController(userData);
 
+        let token = null;
+        if (!!data) {
+            token = generateToken(data, "1w")
+        }
+
         //dar respuesta 
         return res.status(success ? 200 : errorCode).json({
             success,
             message,
-            data
+            token
         })
 
     } catch (error) {

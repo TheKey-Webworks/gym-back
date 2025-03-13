@@ -9,7 +9,6 @@ async function loginPlatformController({ username, password }) {
 
     try {
         const resultData = await query(username, password);
-        console.log(resultData, "-----");
 
         result.success = resultData.success;
         result.message = resultData.message;
@@ -60,6 +59,7 @@ async function query(username, password) {
             } else {
                 console.log("La contraseña coincide");
 
+                queryResult.errorCode = null
                 queryResult.success = true;
                 queryResult.message = "Inicio de sesión exitoso";
                 queryResult.data = {
