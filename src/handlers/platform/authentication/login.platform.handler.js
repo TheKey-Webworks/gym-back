@@ -17,10 +17,14 @@ async function loginPlatformHandler(req, res, next) {
         }
 
         //dar respuesta 
-        return res.status(success ? 200 : errorCode).json({
+        return res.status(success ? 200 : errorCode).cookie('platform_auth', token, {
+            httpOnly: true,
+            // secure: process.env.NODE_ENV === 'production', // Solo en HTTPS (en producción)
+            maxAge: 3600000,      // Tiempo de expiración (1 hora, por ejemplo)
+            sameSite: 'Strict',   // Previene el envío de cookies en solicitudes cross-site
+        }).json({
             success,
             message,
-            token
         })
 
     } catch (error) {

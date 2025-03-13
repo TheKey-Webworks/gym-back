@@ -6148,3 +6148,174 @@ notNull Violation: PlatformUser.email cannot be null
 2025-03-13 03:24:54 info: Platform setup completed
 2025-03-13 03:24:54 info: Platform setup
 2025-03-13 03:24:54 info: Server running on port 3000
+2025-03-13 03:25:50 info: Database connected
+2025-03-13 03:25:51 info: Database synced
+2025-03-13 03:25:51 info: Checking platform setup...
+2025-03-13 03:25:51 info: Platform created with id: 054dd47c-7bcf-413f-b747-2a5ea9dbc001
+2025-03-13 03:25:51 info: Checking platform owner role setup
+2025-03-13 03:25:51 info: Owner role created with id: 4d8140bb-2f93-47eb-8dbd-ff5ffdab7260
+2025-03-13 03:25:51 info: Checking platform admin role setup
+2025-03-13 03:25:51 info: Admin role created with id: b14f768d-8ff5-4489-937c-0359879ba620
+2025-03-13 03:25:51 info: Checking platform operator role setup
+2025-03-13 03:25:51 info: Operator role created with id: f11424d7-da5a-4693-9aa1-648b7ea6f930
+2025-03-13 03:25:51 info: Checking platform owner setup
+2025-03-13 03:25:51 info: Owner created with id: 770e48d8-c168-4c14-af4c-14d891a5d1ea
+2025-03-13 03:25:51 info: Platform setup completed
+2025-03-13 03:25:51 info: Platform setup
+2025-03-13 03:25:51 info: Server running on port 3000
+2025-03-13 04:04:29 info: Database connected
+2025-03-13 04:04:30 info: Database synced
+2025-03-13 04:04:30 info: Checking platform setup...
+2025-03-13 04:04:30 info: Platform created with id: fb029dff-79b0-4f3f-aeab-2bd0b16e015e
+2025-03-13 04:04:30 info: Checking platform owner role setup
+2025-03-13 04:04:30 info: Owner role created with id: b6d8c102-98b5-4633-a78f-081fb3acea58
+2025-03-13 04:04:30 info: Checking platform admin role setup
+2025-03-13 04:04:30 info: Admin role created with id: 3a58aaf0-2bd4-4161-a89b-9a5f8a2a7d11
+2025-03-13 04:04:30 info: Checking platform operator role setup
+2025-03-13 04:04:30 info: Operator role created with id: 17a15454-340e-44cc-bb2b-f7042cae3e27
+2025-03-13 04:04:30 info: Checking platform owner setup
+2025-03-13 04:04:30 info: Owner created with id: 81bdbedf-fd73-4529-983f-f756dff66a93
+2025-03-13 04:04:30 info: Platform setup completed
+2025-03-13 04:04:30 info: Platform setup
+2025-03-13 04:04:30 info: Server running on port 3000
+2025-03-13 04:07:36 error: Error en la validación del formulario:
+2025-03-13 04:07:36 error: [object Object]
+2025-03-13 04:07:55 error: Error en la validación del formulario:
+2025-03-13 04:07:55 error: [object Object]
+2025-03-13 04:07:59 error: Error en la validación del formulario:
+2025-03-13 04:07:59 error: [object Object]
+2025-03-13 04:11:58 info: Database connected
+2025-03-13 04:11:58 info: Database synced
+2025-03-13 04:11:58 info: Checking platform setup...
+2025-03-13 04:11:58 info: Platform created with id: 696e58d4-2840-40a5-a39f-cc95841ac319
+2025-03-13 04:11:58 info: Checking platform owner role setup
+2025-03-13 04:11:58 info: Owner role created with id: 7a0cf47d-bf03-45e9-a634-129919e939ff
+2025-03-13 04:11:58 info: Checking platform admin role setup
+2025-03-13 04:11:58 info: Admin role created with id: 77da06e4-bf1d-4eef-9770-31e07058743e
+2025-03-13 04:11:58 info: Checking platform operator role setup
+2025-03-13 04:11:58 info: Operator role created with id: 2b5b61cd-7c4a-4eb9-a8a1-e33a666c38a3
+2025-03-13 04:11:58 info: Checking platform owner setup
+2025-03-13 04:11:58 info: Owner created with id: 3f6abbc4-33e5-4ba2-983b-81c67f86a9bb
+2025-03-13 04:11:58 info: Platform setup completed
+2025-03-13 04:11:58 info: Platform setup
+2025-03-13 04:11:58 info: Server running on port 3000
+2025-03-13 04:22:37 info: Database connected
+2025-03-13 04:22:38 info: Database synced
+2025-03-13 04:22:38 info: Checking platform setup...
+2025-03-13 04:22:38 info: Platform created with id: f94b707b-8d0d-49ae-b5ce-0f995c5d19b2
+2025-03-13 04:22:38 info: Checking platform owner role setup
+2025-03-13 04:22:38 info: Owner role created with id: be0adc71-5444-49cb-abd2-dea85889f594
+2025-03-13 04:22:38 info: Checking platform admin role setup
+2025-03-13 04:22:38 info: Admin role created with id: 0258edd6-3db0-4787-ae9e-e5bf6f84d1eb
+2025-03-13 04:22:38 info: Checking platform operator role setup
+2025-03-13 04:22:38 info: Operator role created with id: 45baac00-4fb1-412f-aab0-050053d389c0
+2025-03-13 04:22:38 info: Checking platform owner setup
+2025-03-13 04:22:38 info: Owner created with id: 0378128f-33b6-4ccf-bafd-385e7d0aaa62
+2025-03-13 04:22:38 info: Platform setup completed
+2025-03-13 04:22:38 info: Platform setup
+2025-03-13 04:22:38 info: Server running on port 3000
+2025-03-13 04:27:51 info: Database connected
+2025-03-13 04:27:52 info: Database synced
+2025-03-13 04:27:52 info: Checking platform setup...
+2025-03-13 04:27:52 info: Platform created with id: 1a5c2483-a5a0-4a75-82c1-b0c24b1c6c4e
+2025-03-13 04:27:52 info: Checking platform owner role setup
+2025-03-13 04:27:52 info: Owner role created with id: 0ae2ba74-1d8c-4a3f-8e26-1beffed141fd
+2025-03-13 04:27:52 info: Checking platform admin role setup
+2025-03-13 04:27:52 info: Admin role created with id: b1934fc3-2f92-48bf-8502-1d642ecc839b
+2025-03-13 04:27:52 info: Checking platform operator role setup
+2025-03-13 04:27:52 info: Operator role created with id: 5522efd1-29d1-4758-b8d7-01e1e83b970b
+2025-03-13 04:27:52 info: Checking platform owner setup
+2025-03-13 04:27:52 info: Owner created with id: 18214074-0675-4905-ae3a-5b622e0cf16b
+2025-03-13 04:27:52 info: Platform setup completed
+2025-03-13 04:27:52 info: Platform setup
+2025-03-13 04:27:52 info: Server running on port 3000
+2025-03-13 04:28:05 info: Database connected
+2025-03-13 04:28:06 info: Database synced
+2025-03-13 04:28:06 info: Checking platform setup...
+2025-03-13 04:28:06 info: Platform created with id: ee4abe5a-d217-48e1-982e-880b95b46a2b
+2025-03-13 04:28:06 info: Checking platform owner role setup
+2025-03-13 04:28:06 info: Owner role created with id: 47979ea2-0a22-438c-bbb1-8ca5eace9b5f
+2025-03-13 04:28:06 info: Checking platform admin role setup
+2025-03-13 04:28:06 info: Admin role created with id: d286f95c-96e5-49a1-927b-ddcf6d00afec
+2025-03-13 04:28:06 info: Checking platform operator role setup
+2025-03-13 04:28:06 info: Operator role created with id: 1d9b4674-ca5a-4727-b021-dabefc277083
+2025-03-13 04:28:06 info: Checking platform owner setup
+2025-03-13 04:28:06 info: Owner created with id: d3b4fe81-4f6a-49bf-b88c-b3360179669d
+2025-03-13 04:28:06 info: Platform setup completed
+2025-03-13 04:28:06 info: Platform setup
+2025-03-13 04:28:06 info: Server running on port 3000
+2025-03-13 04:33:20 info: Database connected
+2025-03-13 04:33:20 info: Database synced
+2025-03-13 04:33:20 info: Checking platform setup...
+2025-03-13 04:33:20 info: Platform created with id: 6e1f36a0-06fd-4005-aa0c-a58204c3fc6c
+2025-03-13 04:33:20 info: Checking platform owner role setup
+2025-03-13 04:33:20 info: Owner role created with id: 1e5e10fb-2fe6-47f4-9d26-b4bb9d836887
+2025-03-13 04:33:20 info: Checking platform admin role setup
+2025-03-13 04:33:20 info: Admin role created with id: 79c1134b-35fd-4b15-82a9-2d410de82d62
+2025-03-13 04:33:20 info: Checking platform operator role setup
+2025-03-13 04:33:20 info: Operator role created with id: 0ddeff57-b833-4605-b4cd-639bf6fe8b45
+2025-03-13 04:33:20 info: Checking platform owner setup
+2025-03-13 04:33:21 info: Owner created with id: 655d0539-1ede-4cef-9ed9-0a38107331a4
+2025-03-13 04:33:21 info: Platform setup completed
+2025-03-13 04:33:21 info: Platform setup
+2025-03-13 04:33:21 info: Server running on port 3000
+2025-03-13 04:34:38 info: Database connected
+2025-03-13 04:34:38 info: Database synced
+2025-03-13 04:34:38 info: Checking platform setup...
+2025-03-13 04:34:38 info: Platform created with id: b343834a-9f7a-432f-a641-cb54dfd4f1b5
+2025-03-13 04:34:38 info: Checking platform owner role setup
+2025-03-13 04:34:38 info: Owner role created with id: f5a6464a-5033-474d-a5ad-eb0454053eec
+2025-03-13 04:34:38 info: Checking platform admin role setup
+2025-03-13 04:34:38 info: Admin role created with id: b0a8a4d0-4bf9-4527-8710-991768efdb81
+2025-03-13 04:34:38 info: Checking platform operator role setup
+2025-03-13 04:34:38 info: Operator role created with id: dbc8579b-c2d8-49c0-96d6-b3a291d40516
+2025-03-13 04:34:38 info: Checking platform owner setup
+2025-03-13 04:34:38 info: Owner created with id: 4c7e9382-ff35-4a4c-8640-063ff9136719
+2025-03-13 04:34:38 info: Platform setup completed
+2025-03-13 04:34:38 info: Platform setup
+2025-03-13 04:34:38 info: Server running on port 3000
+2025-03-13 04:36:19 info: Database connected
+2025-03-13 04:36:20 info: Database synced
+2025-03-13 04:36:20 info: Checking platform setup...
+2025-03-13 04:36:20 info: Platform created with id: f5ee25cc-fe10-4c2b-bc4e-5ade6e7e3060
+2025-03-13 04:36:20 info: Checking platform owner role setup
+2025-03-13 04:36:20 info: Owner role created with id: 69b94444-a027-48ac-862b-85410816ed71
+2025-03-13 04:36:20 info: Checking platform admin role setup
+2025-03-13 04:36:20 info: Admin role created with id: 45c5c219-c653-4426-87e9-f48e806a9325
+2025-03-13 04:36:20 info: Checking platform operator role setup
+2025-03-13 04:36:20 info: Operator role created with id: bab50bae-b05a-44b9-9c9b-ff009c971552
+2025-03-13 04:36:20 info: Checking platform owner setup
+2025-03-13 04:36:20 info: Owner created with id: 05afca92-b2d9-48d5-9513-6a8248ae0ca8
+2025-03-13 04:36:20 info: Platform setup completed
+2025-03-13 04:36:20 info: Platform setup
+2025-03-13 04:36:20 info: Server running on port 3000
+2025-03-13 04:37:03 info: Database connected
+2025-03-13 04:37:03 info: Database synced
+2025-03-13 04:37:03 info: Checking platform setup...
+2025-03-13 04:37:04 info: Platform created with id: 2f822e71-5def-41f0-8a12-65673cd549d8
+2025-03-13 04:37:04 info: Checking platform owner role setup
+2025-03-13 04:37:04 info: Owner role created with id: 982c4e42-97a7-4946-9eb7-1c13d281c58b
+2025-03-13 04:37:04 info: Checking platform admin role setup
+2025-03-13 04:37:04 info: Admin role created with id: 6bfd042f-0cf3-45e1-9e2d-17c91023080e
+2025-03-13 04:37:04 info: Checking platform operator role setup
+2025-03-13 04:37:04 info: Operator role created with id: 6abfafa9-ef3c-4d3a-aa56-f95788ce7184
+2025-03-13 04:37:04 info: Checking platform owner setup
+2025-03-13 04:37:04 info: Owner created with id: afd720be-c881-4c7c-9194-ba932180ecb8
+2025-03-13 04:37:04 info: Platform setup completed
+2025-03-13 04:37:04 info: Platform setup
+2025-03-13 04:37:04 info: Server running on port 3000
+2025-03-13 04:37:33 info: Database connected
+2025-03-13 04:37:34 info: Database synced
+2025-03-13 04:37:34 info: Checking platform setup...
+2025-03-13 04:37:34 info: Platform created with id: e2a85aee-8230-4f53-a0fd-a15bb1c45243
+2025-03-13 04:37:34 info: Checking platform owner role setup
+2025-03-13 04:37:34 info: Owner role created with id: 604f2a08-2935-4e49-8d64-febf0dd79522
+2025-03-13 04:37:34 info: Checking platform admin role setup
+2025-03-13 04:37:34 info: Admin role created with id: c70b2572-7e83-4654-b147-46678274a2a8
+2025-03-13 04:37:34 info: Checking platform operator role setup
+2025-03-13 04:37:34 info: Operator role created with id: 07731a36-6834-441d-8030-fbd077ea8064
+2025-03-13 04:37:34 info: Checking platform owner setup
+2025-03-13 04:37:34 info: Owner created with id: ec752434-a9be-4c84-916c-d2080020dc16
+2025-03-13 04:37:34 info: Platform setup completed
+2025-03-13 04:37:34 info: Platform setup
+2025-03-13 04:37:34 info: Server running on port 3000

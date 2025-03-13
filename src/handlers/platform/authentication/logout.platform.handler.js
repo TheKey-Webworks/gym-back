@@ -2,13 +2,8 @@ const { logoutPlatformController } = require("../../../controllers/platform/auth
 
 async function logoutPlatformHandler(req, res, next) {
     try {
-        const headers = req.headers;
-        const splitAuthorization = headers?.authorization?.split("platform_auth ")
-        const token =
-            splitAuthorization && splitAuthorization[1] ?
-                splitAuthorization[1]
-                :
-                null
+
+        const token = req?.cookies?.platform_auth
 
         if (!token) {
             return res.status(401).json({
