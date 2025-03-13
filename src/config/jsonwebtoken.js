@@ -22,8 +22,9 @@ function generateToken(data, expTime) {
         process.exit(1)
     }
 }
-async function decodeToken(data) {
-    const { PlatformJWTBlacklist } = models
+
+async function decodeToken(data, type = "common") {
+    const { PlatformJWTBlacklist, PlatformUser } = models
 
     try {
 
@@ -33,13 +34,24 @@ async function decodeToken(data) {
             },
         })
 
-
         if (blacklisted) {
             throw new jwt.TokenExpiredError()
         }
 
+
+
         const decoded = jwt.verify(data, JWT_SECRET);
-        return { success: true, data: { ...decoded }, errorCode: null }
+
+        const id = decoded.id
+
+        const user = await PlatformUser.count({ where: { id } })
+
+        if (!user) {
+            await PlatformJWTBlacklist.findOrCreate({ where: { token: data }, defaults: { token: data } })
+            return { success: false, data: {}, errorCode: 404, message: "El usuario no existe" }
+        }
+
+        return { success: true, data: { ...decoded }, errorCode: null, message: "Operacion exitosa" }
 
     } catch (error) {
 

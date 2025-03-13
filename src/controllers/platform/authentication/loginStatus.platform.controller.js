@@ -7,7 +7,7 @@ async function loginStatusController({ token }) {
 
     try {
 
-        const { success, message, data, errorCode } = await decodeToken(token)
+        const { success, message, data, errorCode } = await decodeToken(token, "userToken")
         result.isAuthenticated = success
         result.message = message
         result.data = data
@@ -24,6 +24,8 @@ async function loginStatusController({ token }) {
 
     return result
 }
+
+
 
 module.exports = {
     loginStatusController

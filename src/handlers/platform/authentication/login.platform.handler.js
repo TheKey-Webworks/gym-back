@@ -13,7 +13,7 @@ async function loginPlatformHandler(req, res, next) {
 
         let token = null;
         if (!!data) {
-            token = generateToken(data, "1w")
+            token = generateToken({ id: data.id }, "1w")
         }
 
         //dar respuesta 
@@ -25,6 +25,7 @@ async function loginPlatformHandler(req, res, next) {
         }).json({
             success,
             message,
+            data
         })
 
     } catch (error) {
