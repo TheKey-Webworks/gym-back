@@ -1,6 +1,7 @@
 const { config } = require("dotenv")
 const { sequelize, models } = require("../config/sequelize")
 const logger = require("../config/winston")
+const bcrypt = require("bcrypt")
 
 //env
 config()
@@ -75,25 +76,31 @@ async function setupPlatform() {
 
 
         // setup de owner
+        let owner;
         logger.info("Checking platform owner setup")
 
-        const [owner, isNewOwner] = await PlatformUser.findOrCreate({
-            where: {
-                email: EMAIL
-            },
-            defaults: {
-                firstName: FIRST_NAME,
-                lastName: LAST_NAME,
-                password: PASSWORD,
-                email: EMAIL
-            }
-        });
+        const isNewOwner = !await PlatformUser.count({
+            where: { email: EMAIL }
+        })
+
 
         if (isNewOwner) {
 
+            const pwd = await bcrypt.hash(PASSWORD, 10)
+
+            owner = await PlatformUser.create({
+                firstName: FIRST_NAME,
+                lastName: LAST_NAME,
+                password: pwd,
+                email: EMAIL
+            })
+
+
             owner.setPlatformUserRole(ownerRole)
             owner.setPlatform(platform)
-            
+
+
+
 
             logger.info(`Owner created with id: ${owner.id}`);
         } else {
