@@ -28,6 +28,30 @@ const platformUserRegisterZSchema = z.object({
     path: ["confirmPassword"]
 });
 
+
+const platformGymCreateZSchema = z.object({
+    name: z.string()
+        .min(3, "Ingresá un nombre válido"),
+    branches: z.number()
+        .min(1, "Ingresá un número superior a cero (0)"),
+    gymOwner: z.string().refine((val) => {
+        const uuidRegex = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i;
+        return uuidRegex.test(val);
+    }, {
+        message: "El campo deberia enviar un UUID válido",
+    }),
+    fee: z.number()
+        .min(0, "Ingresa un número mayor a cero (0)"),
+    discount: z.number()
+        .min(0, "Ingresá un número superior a cero (0)"),
+    discountPeriod: z.string()
+        .refine(val => !isNaN(Date.parse(val)), {
+            message: "Ingresá una fecha válida"
+        })
+        .transform(val => new Date(val))
+
+});
+
 const platformUserLoginZSchema = z.object({
     username: z.string()
         .min(3, "Ingresa un nombre de usuario o email válidos"),
@@ -59,5 +83,6 @@ function parseSchema(schema, data) {
 module.exports = {
     platformUserRegisterZSchema,
     platformUserLoginZSchema,
+    platformGymCreateZSchema,
     parseSchema
 };

@@ -6,12 +6,14 @@ const router = express.Router();
 const routesPath = path.join(__dirname, "platform");
 
 fs.readdirSync(routesPath).forEach((file) => {
-    if (file.endsWith(".platform_route.js")) { // Buscar archivos con el sufijo correcto
+    console.log(file);
+
+    if (file.endsWith(".platform_route.js")) {
         const filePath = path.join(routesPath, file);
         const route = require(filePath);
 
-        if (route && typeof route === "function") { // Asegurar que es un Router
-            const routeName = file.replace(/\.platform_route\.js$/, ""); // Extraer solo el nombre antes del sufijo
+        if (route && typeof route === "function") {
+            const routeName = file.replace(/\.platform_route\.js$/, "");
             router.use(`/${routeName}`, route);
         }
     }

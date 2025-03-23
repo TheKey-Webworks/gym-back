@@ -4,6 +4,7 @@ const { sequelize } = require("./src/config/sequelize")
 const { initModels } = require("./src/utils/initModels")
 const logger = require("./src/config/winston")
 const { setupPlatform } = require("./src/utils/setupPlatform")
+const { generateTestUserGym } = require("./src/utils/db_test_initializers/generateTestUser")
 
 
 // dotenv config
@@ -30,6 +31,9 @@ async function startServer() {
 
         await setupPlatform(sequelize.models)
         logger.info("Platform setup")
+
+        // ["DEBUG"]
+        await generateTestUserGym()
 
         // iniciar server
         app.listen(3000, () => {

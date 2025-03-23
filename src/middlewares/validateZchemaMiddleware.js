@@ -1,20 +1,24 @@
 const logger = require("../config/winston");
-const { parseSchema, platformUserLoginZSchema } = require("../utils/zod");
+const { parseSchema, platformUserLoginZSchema, platformGymCreateZSchema } = require("../utils/zod");
 
 function mwValidateZSchema(req, res, next) {
 
     const validSchemas = {
-        platformUserLoginZSchema
+        platformUserLoginZSchema,
+        platformGymCreateZSchema
     }
 
     try {
         let selectedSchema;
         const splitURL = req.originalUrl.split("/").join("_")
-
+        console.log(splitURL)
 
         switch (splitURL) {
             case "_platform_authentication_login":
                 selectedSchema = validSchemas.platformUserLoginZSchema;
+                break
+            case "_platform_gym-manager_create-gym":
+                selectedSchema = validSchemas.platformGymCreateZSchema
                 break
             default:
                 logger.error(`Se proporcionó un schema inválido (${splitURL})`)
