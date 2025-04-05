@@ -10,5 +10,7 @@ router.use(isAuthenticated)
 //create gym
 router.post("/create-gym", mwValidateZSchema, createGymPlatformHandler)
 
+//get all gyms 
+// router.get("/get-gyms")
 
 module.exports = router

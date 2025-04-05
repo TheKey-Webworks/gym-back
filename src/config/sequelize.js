@@ -17,5 +17,6 @@ const db = sequelize.models
 
 module.exports = {
     sequelize,
+    transaction: sequelize.transaction,
     models: db
 }

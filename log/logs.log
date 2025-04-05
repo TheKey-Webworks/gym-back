@@ -9556,3 +9556,1458 @@ notNull Violation: PlatformUser.email cannot be null
 2025-03-20 09:50:59 info: Usuario de prueba creado (GYM) - Miguel Martín
 2025-03-20 09:50:59 info: Usuario de prueba creado (GYM) - Elena Pérez
 2025-03-20 09:50:59 info: Server running on port 3000
+2025-04-03 10:03:27 info: Database connected
+2025-04-03 10:03:29 info: Database synced
+2025-04-03 10:03:29 info: Checking platform setup...
+2025-04-03 10:03:29 info: Platform created with id: 9768dd17-4c2c-428d-aea0-18f190630b89
+2025-04-03 10:03:29 info: Checking platform owner role setup
+2025-04-03 10:03:29 info: Owner role created with id: a35b6905-9746-4610-804a-ff630488a37b
+2025-04-03 10:03:29 info: Checking platform admin role setup
+2025-04-03 10:03:30 info: Admin role created with id: 1b9526bf-5304-4063-a926-98e8951df069
+2025-04-03 10:03:30 info: Checking platform operator role setup
+2025-04-03 10:03:30 info: Operator role created with id: 3ecf0bd2-da37-48c3-b3f3-8f1ad3244f0e
+2025-04-03 10:03:30 info: Checking platform owner setup
+2025-04-03 10:03:30 info: Owner created with id: 264b4e40-761b-4677-bb35-9097ac251f7b
+2025-04-03 10:03:30 info: Platform setup completed
+2025-04-03 10:03:30 info: Platform setup
+2025-04-03 10:03:30 info: Usuario de prueba creado (GYM) - Juan Pérez
+2025-04-03 10:03:30 info: Usuario de prueba creado (GYM) - Ana Gómez
+2025-04-03 10:03:30 info: Usuario de prueba creado (GYM) - Carlos López
+2025-04-03 10:03:30 info: Usuario de prueba creado (GYM) - María Rodríguez
+2025-04-03 10:03:30 info: Usuario de prueba creado (GYM) - José Martínez
+2025-04-03 10:03:30 info: Usuario de prueba creado (GYM) - Luisa García
+2025-04-03 10:03:30 info: Usuario de prueba creado (GYM) - Pedro Hernández
+2025-04-03 10:03:30 info: Usuario de prueba creado (GYM) - Laura Sánchez
+2025-04-03 10:03:30 info: Usuario de prueba creado (GYM) - Miguel Martín
+2025-04-03 10:03:30 info: Usuario de prueba creado (GYM) - Elena Pérez
+2025-04-03 10:03:30 info: Server running on port 3000
+2025-04-03 11:07:30 info: Database connected
+2025-04-03 11:07:31 info: Database synced
+2025-04-03 11:07:31 info: Checking platform setup...
+2025-04-03 11:07:31 info: Platform created with id: d9a59e6e-cdff-4021-b090-0ca89a5b53e8
+2025-04-03 11:07:31 info: Checking platform owner role setup
+2025-04-03 11:07:31 info: Owner role created with id: a0f889b4-a41f-4930-8399-93df9996f934
+2025-04-03 11:07:31 info: Checking platform admin role setup
+2025-04-03 11:07:31 info: Admin role created with id: f8a6061b-b960-4691-9f23-08524242161b
+2025-04-03 11:07:31 info: Checking platform operator role setup
+2025-04-03 11:07:31 info: Operator role created with id: 50f7fc1c-b1b6-43e9-b052-07cdefe289b8
+2025-04-03 11:07:31 info: Checking platform owner setup
+2025-04-03 11:07:31 info: Owner created with id: 642e0bd5-720c-4499-8d18-d30035d01053
+2025-04-03 11:07:31 info: Platform setup completed
+2025-04-03 11:07:31 info: Platform setup
+2025-04-03 11:07:31 info: Usuario de prueba creado (GYM) - Juan Pérez
+2025-04-03 11:07:31 info: Usuario de prueba creado (GYM) - Ana Gómez
+2025-04-03 11:07:31 info: Usuario de prueba creado (GYM) - Carlos López
+2025-04-03 11:07:31 info: Usuario de prueba creado (GYM) - María Rodríguez
+2025-04-03 11:07:31 info: Usuario de prueba creado (GYM) - José Martínez
+2025-04-03 11:07:31 info: Usuario de prueba creado (GYM) - Luisa García
+2025-04-03 11:07:31 info: Usuario de prueba creado (GYM) - Pedro Hernández
+2025-04-03 11:07:31 info: Usuario de prueba creado (GYM) - Laura Sánchez
+2025-04-03 11:07:31 info: Usuario de prueba creado (GYM) - Miguel Martín
+2025-04-03 11:07:31 info: Usuario de prueba creado (GYM) - Elena Pérez
+2025-04-03 11:07:31 info: Server running on port 3000
+2025-04-03 11:16:55 info: Database connected
+2025-04-03 11:16:56 info: Database synced
+2025-04-03 11:16:56 info: Checking platform setup...
+2025-04-03 11:16:56 info: Platform created with id: 964036ff-5174-424a-bf42-aba21ef85ba1
+2025-04-03 11:16:56 info: Checking platform owner role setup
+2025-04-03 11:16:56 info: Owner role created with id: 693a9b59-04e2-4cfc-9b03-28ec0759630b
+2025-04-03 11:16:56 info: Checking platform admin role setup
+2025-04-03 11:16:56 info: Admin role created with id: 2a9a1fa1-8589-4d55-8b91-20b806c7d141
+2025-04-03 11:16:56 info: Checking platform operator role setup
+2025-04-03 11:16:56 info: Operator role created with id: 9436c50e-8d42-463d-8772-43b459997f65
+2025-04-03 11:16:56 info: Checking platform owner setup
+2025-04-03 11:16:56 info: Owner created with id: d22ec8a3-8753-4dd3-ac1b-69a333116ec2
+2025-04-03 11:16:56 info: Platform setup completed
+2025-04-03 11:16:56 info: Platform setup
+2025-04-03 11:16:56 info: Usuario de prueba creado (GYM) - Juan Pérez
+2025-04-03 11:16:56 info: Usuario de prueba creado (GYM) - Ana Gómez
+2025-04-03 11:16:56 info: Usuario de prueba creado (GYM) - Carlos López
+2025-04-03 11:16:56 info: Usuario de prueba creado (GYM) - María Rodríguez
+2025-04-03 11:16:56 info: Usuario de prueba creado (GYM) - José Martínez
+2025-04-03 11:16:56 info: Usuario de prueba creado (GYM) - Luisa García
+2025-04-03 11:16:56 info: Usuario de prueba creado (GYM) - Pedro Hernández
+2025-04-03 11:16:56 info: Usuario de prueba creado (GYM) - Laura Sánchez
+2025-04-03 11:16:56 info: Usuario de prueba creado (GYM) - Miguel Martín
+2025-04-03 11:16:56 info: Usuario de prueba creado (GYM) - Elena Pérez
+2025-04-03 11:16:56 info: Server running on port 3000
+2025-04-03 11:25:28 info: Database connected
+2025-04-03 11:25:29 info: Database synced
+2025-04-03 11:25:29 info: Checking platform setup...
+2025-04-03 11:25:29 info: Platform created with id: 235bfa1e-6283-49b1-ac7f-7c7dc7d2bb57
+2025-04-03 11:25:29 info: Checking platform owner role setup
+2025-04-03 11:25:29 info: Owner role created with id: f5c8d0e4-c911-47fe-8343-57a81772c72c
+2025-04-03 11:25:29 info: Checking platform admin role setup
+2025-04-03 11:25:29 info: Admin role created with id: fdf6c13c-828d-4855-8643-452b9b2f52d9
+2025-04-03 11:25:29 info: Checking platform operator role setup
+2025-04-03 11:25:29 info: Operator role created with id: 509ca0b3-fefc-4f74-9c50-637a09b32005
+2025-04-03 11:25:29 info: Checking platform owner setup
+2025-04-03 11:25:29 info: Owner created with id: 3414f49c-69be-40b1-a7ef-bf95d2a1f967
+2025-04-03 11:25:29 info: Platform setup completed
+2025-04-03 11:25:29 info: Platform setup
+2025-04-03 11:25:29 info: Usuario de prueba creado (GYM) - Juan Pérez
+2025-04-03 11:25:29 info: Usuario de prueba creado (GYM) - Ana Gómez
+2025-04-03 11:25:29 info: Usuario de prueba creado (GYM) - Carlos López
+2025-04-03 11:25:29 info: Usuario de prueba creado (GYM) - María Rodríguez
+2025-04-03 11:25:29 info: Usuario de prueba creado (GYM) - José Martínez
+2025-04-03 11:25:29 info: Usuario de prueba creado (GYM) - Luisa García
+2025-04-03 11:25:29 info: Usuario de prueba creado (GYM) - Pedro Hernández
+2025-04-03 11:25:29 info: Usuario de prueba creado (GYM) - Laura Sánchez
+2025-04-03 11:25:29 info: Usuario de prueba creado (GYM) - Miguel Martín
+2025-04-03 11:25:29 info: Usuario de prueba creado (GYM) - Elena Pérez
+2025-04-03 11:25:29 info: Server running on port 3000
+2025-04-03 11:45:42 error: Error en la validación del formulario:
+2025-04-03 11:45:42 error: [object Object]
+2025-04-03 11:46:17 error: Error en la validación del formulario:
+2025-04-03 11:46:17 error: [object Object]
+2025-04-03 17:13:34 error: Error en la validación del formulario:
+2025-04-03 17:13:34 error: [object Object]
+2025-04-03 18:00:22 info: Database connected
+2025-04-03 18:00:23 info: Database synced
+2025-04-03 18:00:23 info: Checking platform setup...
+2025-04-03 18:00:23 info: Platform created with id: 8b7afbbc-70df-40ba-a384-6bef4feca443
+2025-04-03 18:00:23 info: Checking platform owner role setup
+2025-04-03 18:00:23 info: Owner role created with id: 9eaa06fc-0884-4faf-9ab1-4ef8e9bbf818
+2025-04-03 18:00:23 info: Checking platform admin role setup
+2025-04-03 18:00:23 info: Admin role created with id: 9ce02ae6-1260-4b11-8f40-c37981563ce0
+2025-04-03 18:00:23 info: Checking platform operator role setup
+2025-04-03 18:00:23 info: Operator role created with id: 802b41e7-b22e-4751-a863-b6a67bbc8822
+2025-04-03 18:00:23 info: Checking platform owner setup
+2025-04-03 18:00:23 info: Owner created with id: c4b5c23d-05f0-41fd-9171-596c343d17fa
+2025-04-03 18:00:23 info: Platform setup completed
+2025-04-03 18:00:23 info: Platform setup
+2025-04-03 18:00:23 info: Usuario de prueba creado (GYM) - Juan Pérez
+2025-04-03 18:00:24 info: Usuario de prueba creado (GYM) - Ana Gómez
+2025-04-03 18:00:24 info: Usuario de prueba creado (GYM) - Carlos López
+2025-04-03 18:00:24 info: Usuario de prueba creado (GYM) - María Rodríguez
+2025-04-03 18:00:24 info: Usuario de prueba creado (GYM) - José Martínez
+2025-04-03 18:00:24 info: Usuario de prueba creado (GYM) - Luisa García
+2025-04-03 18:00:24 info: Usuario de prueba creado (GYM) - Pedro Hernández
+2025-04-03 18:00:24 info: Usuario de prueba creado (GYM) - Laura Sánchez
+2025-04-03 18:00:24 info: Usuario de prueba creado (GYM) - Miguel Martín
+2025-04-03 18:00:24 info: Usuario de prueba creado (GYM) - Elena Pérez
+2025-04-03 18:00:24 info: Server running on port 3000
+2025-04-03 18:05:58 info: Database connected
+2025-04-03 18:05:58 info: Database synced
+2025-04-03 18:05:58 info: Checking platform setup...
+2025-04-03 18:05:58 info: Platform created with id: 4192fba5-a1d2-481a-bc0b-051898352116
+2025-04-03 18:05:58 info: Checking platform owner role setup
+2025-04-03 18:05:58 info: Owner role created with id: 0b198fd6-ffee-48e0-933f-59b62a8f316b
+2025-04-03 18:05:58 info: Checking platform admin role setup
+2025-04-03 18:05:58 info: Admin role created with id: 95d4753c-8ad1-49b1-ae0e-1916a9d0aa30
+2025-04-03 18:05:58 info: Checking platform operator role setup
+2025-04-03 18:05:58 info: Operator role created with id: c3da55e5-9476-4aa7-ab23-8c2add6a72c4
+2025-04-03 18:05:58 info: Checking platform owner setup
+2025-04-03 18:05:59 info: Owner created with id: 9df35f1c-c1e9-42e9-bd64-522b24dd61ff
+2025-04-03 18:05:59 info: Platform setup completed
+2025-04-03 18:05:59 info: Platform setup
+2025-04-03 18:05:59 info: Usuario de prueba creado (GYM) - Juan Pérez
+2025-04-03 18:05:59 info: Usuario de prueba creado (GYM) - Ana Gómez
+2025-04-03 18:05:59 info: Usuario de prueba creado (GYM) - Carlos López
+2025-04-03 18:05:59 info: Usuario de prueba creado (GYM) - María Rodríguez
+2025-04-03 18:05:59 info: Usuario de prueba creado (GYM) - José Martínez
+2025-04-03 18:05:59 info: Usuario de prueba creado (GYM) - Luisa García
+2025-04-03 18:05:59 info: Usuario de prueba creado (GYM) - Pedro Hernández
+2025-04-03 18:05:59 info: Usuario de prueba creado (GYM) - Laura Sánchez
+2025-04-03 18:05:59 info: Usuario de prueba creado (GYM) - Miguel Martín
+2025-04-03 18:05:59 info: Usuario de prueba creado (GYM) - Elena Pérez
+2025-04-03 18:05:59 info: Server running on port 3000
+2025-04-03 18:06:52 info: Database connected
+2025-04-03 18:06:52 info: Database synced
+2025-04-03 18:06:52 info: Checking platform setup...
+2025-04-03 18:06:52 info: Platform created with id: ea526533-d10d-4969-84ab-420a3e00391b
+2025-04-03 18:06:52 info: Checking platform owner role setup
+2025-04-03 18:06:52 info: Owner role created with id: a68935e5-3918-4bf8-b88d-d36230916ae3
+2025-04-03 18:06:52 info: Checking platform admin role setup
+2025-04-03 18:06:52 info: Admin role created with id: 5b49bb51-a712-4dcc-ab11-e952d8ab111c
+2025-04-03 18:06:52 info: Checking platform operator role setup
+2025-04-03 18:06:52 info: Operator role created with id: 1430a2a7-9aca-40ce-ad34-e69fa36bd65f
+2025-04-03 18:06:52 info: Checking platform owner setup
+2025-04-03 18:06:52 info: Owner created with id: fd685f45-d444-42d9-a88f-b5f4dde68d00
+2025-04-03 18:06:52 info: Platform setup completed
+2025-04-03 18:06:52 info: Platform setup
+2025-04-03 18:06:53 info: Usuario de prueba creado (GYM) - Juan Pérez
+2025-04-03 18:06:53 info: Usuario de prueba creado (GYM) - Ana Gómez
+2025-04-03 18:06:53 info: Usuario de prueba creado (GYM) - Carlos López
+2025-04-03 18:06:53 info: Usuario de prueba creado (GYM) - María Rodríguez
+2025-04-03 18:06:53 info: Usuario de prueba creado (GYM) - José Martínez
+2025-04-03 18:06:53 info: Usuario de prueba creado (GYM) - Luisa García
+2025-04-03 18:06:53 info: Usuario de prueba creado (GYM) - Pedro Hernández
+2025-04-03 18:06:53 info: Usuario de prueba creado (GYM) - Laura Sánchez
+2025-04-03 18:06:53 info: Usuario de prueba creado (GYM) - Miguel Martín
+2025-04-03 18:06:53 info: Usuario de prueba creado (GYM) - Elena Pérez
+2025-04-03 18:06:53 info: Server running on port 3000
+2025-04-03 18:09:02 info: Database connected
+2025-04-03 18:09:03 info: Database synced
+2025-04-03 18:09:03 info: Checking platform setup...
+2025-04-03 18:09:03 info: Platform created with id: 504a9842-c11a-46a8-91db-993a9052b99b
+2025-04-03 18:09:03 info: Checking platform owner role setup
+2025-04-03 18:09:03 info: Owner role created with id: 33ee272c-e57f-4f2a-ba18-4684c31c720e
+2025-04-03 18:09:03 info: Checking platform admin role setup
+2025-04-03 18:09:03 info: Admin role created with id: f3f71316-11ba-4f88-8271-55a6cdc25812
+2025-04-03 18:09:03 info: Checking platform operator role setup
+2025-04-03 18:09:03 info: Operator role created with id: a644309b-28c9-4040-b8d6-67019a502c50
+2025-04-03 18:09:03 info: Checking platform owner setup
+2025-04-03 18:09:03 info: Owner created with id: 88d0871c-5f01-46cf-91d3-f9c24a9e4dc3
+2025-04-03 18:09:03 info: Platform setup completed
+2025-04-03 18:09:03 info: Platform setup
+2025-04-03 18:09:03 info: Usuario de prueba creado (GYM) - Juan Pérez
+2025-04-03 18:09:03 info: Usuario de prueba creado (GYM) - Ana Gómez
+2025-04-03 18:09:03 info: Usuario de prueba creado (GYM) - Carlos López
+2025-04-03 18:09:03 info: Usuario de prueba creado (GYM) - María Rodríguez
+2025-04-03 18:09:03 info: Usuario de prueba creado (GYM) - José Martínez
+2025-04-03 18:09:03 info: Usuario de prueba creado (GYM) - Luisa García
+2025-04-03 18:09:03 info: Usuario de prueba creado (GYM) - Pedro Hernández
+2025-04-03 18:09:03 info: Usuario de prueba creado (GYM) - Laura Sánchez
+2025-04-03 18:09:03 info: Usuario de prueba creado (GYM) - Miguel Martín
+2025-04-03 18:09:03 info: Usuario de prueba creado (GYM) - Elena Pérez
+2025-04-03 18:09:03 info: Server running on port 3000
+2025-04-03 18:09:08 error: Se produjo un error en create-gym controller (platform)
+2025-04-03 18:09:08 error: message is not defined
+2025-04-03 18:11:00 info: Database connected
+2025-04-03 18:11:01 info: Database synced
+2025-04-03 18:11:01 info: Checking platform setup...
+2025-04-03 18:11:01 info: Platform created with id: 7bee2428-2d34-4736-ba17-ff19dc6da1c9
+2025-04-03 18:11:01 info: Checking platform owner role setup
+2025-04-03 18:11:01 info: Owner role created with id: 4d7da4cf-a704-4db5-8d08-4c74e9ea01fb
+2025-04-03 18:11:01 info: Checking platform admin role setup
+2025-04-03 18:11:01 info: Admin role created with id: 598035cd-0674-4e80-ba7f-34cf0128fa27
+2025-04-03 18:11:01 info: Checking platform operator role setup
+2025-04-03 18:11:01 info: Operator role created with id: 605286d0-6037-4e13-b0d2-b4fda3bbb030
+2025-04-03 18:11:01 info: Checking platform owner setup
+2025-04-03 18:11:01 info: Owner created with id: 735c1ae2-16e5-409c-8052-7095e1d30bfe
+2025-04-03 18:11:01 info: Platform setup completed
+2025-04-03 18:11:01 info: Platform setup
+2025-04-03 18:11:01 info: Usuario de prueba creado (GYM) - Juan Pérez
+2025-04-03 18:11:01 info: Usuario de prueba creado (GYM) - Ana Gómez
+2025-04-03 18:11:01 info: Usuario de prueba creado (GYM) - Carlos López
+2025-04-03 18:11:01 info: Usuario de prueba creado (GYM) - María Rodríguez
+2025-04-03 18:11:01 info: Usuario de prueba creado (GYM) - José Martínez
+2025-04-03 18:11:01 info: Usuario de prueba creado (GYM) - Luisa García
+2025-04-03 18:11:01 info: Usuario de prueba creado (GYM) - Pedro Hernández
+2025-04-03 18:11:01 info: Usuario de prueba creado (GYM) - Laura Sánchez
+2025-04-03 18:11:01 info: Usuario de prueba creado (GYM) - Miguel Martín
+2025-04-03 18:11:01 info: Usuario de prueba creado (GYM) - Elena Pérez
+2025-04-03 18:11:01 info: Server running on port 3000
+2025-04-03 18:11:32 info: Database connected
+2025-04-03 18:11:32 info: Database synced
+2025-04-03 18:11:32 info: Checking platform setup...
+2025-04-03 18:11:33 info: Platform created with id: 1c51e70e-15a7-4f64-b5ca-b89138ed5315
+2025-04-03 18:11:33 info: Checking platform owner role setup
+2025-04-03 18:11:33 info: Owner role created with id: 2a76fafe-4cef-4262-92f5-527d4867b2b8
+2025-04-03 18:11:33 info: Checking platform admin role setup
+2025-04-03 18:11:33 info: Admin role created with id: 8e3c5147-c01f-469b-b978-0946b4e3ac25
+2025-04-03 18:11:33 info: Checking platform operator role setup
+2025-04-03 18:11:33 info: Operator role created with id: c1a14739-55bf-45c0-bc11-1e3cded4e8de
+2025-04-03 18:11:33 info: Checking platform owner setup
+2025-04-03 18:11:33 info: Owner created with id: 0f10efa9-639e-4b07-aab6-199d56292856
+2025-04-03 18:11:33 info: Platform setup completed
+2025-04-03 18:11:33 info: Platform setup
+2025-04-03 18:11:33 info: Usuario de prueba creado (GYM) - Juan Pérez
+2025-04-03 18:11:33 info: Usuario de prueba creado (GYM) - Ana Gómez
+2025-04-03 18:11:33 info: Usuario de prueba creado (GYM) - Carlos López
+2025-04-03 18:11:33 info: Usuario de prueba creado (GYM) - María Rodríguez
+2025-04-03 18:11:33 info: Usuario de prueba creado (GYM) - José Martínez
+2025-04-03 18:11:33 info: Usuario de prueba creado (GYM) - Luisa García
+2025-04-03 18:11:33 info: Usuario de prueba creado (GYM) - Pedro Hernández
+2025-04-03 18:11:33 info: Usuario de prueba creado (GYM) - Laura Sánchez
+2025-04-03 18:11:33 info: Usuario de prueba creado (GYM) - Miguel Martín
+2025-04-03 18:11:33 info: Usuario de prueba creado (GYM) - Elena Pérez
+2025-04-03 18:11:33 info: Server running on port 3000
+2025-04-03 18:11:52 info: Database connected
+2025-04-03 18:11:53 info: Database synced
+2025-04-03 18:11:53 info: Checking platform setup...
+2025-04-03 18:11:53 info: Platform created with id: 57b170d6-2c28-49e9-8e8a-8b5191ae0749
+2025-04-03 18:11:53 info: Checking platform owner role setup
+2025-04-03 18:11:53 info: Owner role created with id: b202abaa-75e0-4b64-8b94-240b050d9333
+2025-04-03 18:11:53 info: Checking platform admin role setup
+2025-04-03 18:11:53 info: Admin role created with id: c9662a89-d968-4486-8f67-7e76eab36461
+2025-04-03 18:11:53 info: Checking platform operator role setup
+2025-04-03 18:11:53 info: Operator role created with id: 78f6d33f-2fb5-44cc-8528-da20e147b0b4
+2025-04-03 18:11:53 info: Checking platform owner setup
+2025-04-03 18:11:53 info: Owner created with id: 2519c0bc-eefa-46ef-be51-1649e186e247
+2025-04-03 18:11:53 info: Platform setup completed
+2025-04-03 18:11:53 info: Platform setup
+2025-04-03 18:11:53 info: Usuario de prueba creado (GYM) - Juan Pérez
+2025-04-03 18:11:53 info: Usuario de prueba creado (GYM) - Ana Gómez
+2025-04-03 18:11:53 info: Usuario de prueba creado (GYM) - Carlos López
+2025-04-03 18:11:53 info: Usuario de prueba creado (GYM) - María Rodríguez
+2025-04-03 18:11:53 info: Usuario de prueba creado (GYM) - José Martínez
+2025-04-03 18:11:53 info: Usuario de prueba creado (GYM) - Luisa García
+2025-04-03 18:11:53 info: Usuario de prueba creado (GYM) - Pedro Hernández
+2025-04-03 18:11:53 info: Usuario de prueba creado (GYM) - Laura Sánchez
+2025-04-03 18:11:53 info: Usuario de prueba creado (GYM) - Miguel Martín
+2025-04-03 18:11:53 info: Usuario de prueba creado (GYM) - Elena Pérez
+2025-04-03 18:11:53 info: Server running on port 3000
+2025-04-03 18:12:05 error: Se produjo un error en create-gym controller (platform)
+2025-04-03 18:12:05 error: message is not defined
+2025-04-03 18:12:31 info: Database connected
+2025-04-03 18:12:32 info: Database synced
+2025-04-03 18:12:32 info: Checking platform setup...
+2025-04-03 18:12:32 info: Platform created with id: a08e523f-f8fe-407f-a05d-0630b67788ac
+2025-04-03 18:12:32 info: Checking platform owner role setup
+2025-04-03 18:12:32 info: Owner role created with id: c4f0a4ff-3faa-4f96-b326-326a05ea94e5
+2025-04-03 18:12:32 info: Checking platform admin role setup
+2025-04-03 18:12:32 info: Admin role created with id: 50b7e2c7-9c3b-4b04-9224-bb6179123a4a
+2025-04-03 18:12:32 info: Checking platform operator role setup
+2025-04-03 18:12:32 info: Operator role created with id: 3e2d03b8-5819-48cd-81d8-77bf04f71ff8
+2025-04-03 18:12:32 info: Checking platform owner setup
+2025-04-03 18:12:32 info: Owner created with id: a86858be-ebd0-4100-a9ca-1ad0f7726014
+2025-04-03 18:12:32 info: Platform setup completed
+2025-04-03 18:12:32 info: Platform setup
+2025-04-03 18:12:32 info: Usuario de prueba creado (GYM) - Juan Pérez
+2025-04-03 18:12:32 info: Usuario de prueba creado (GYM) - Ana Gómez
+2025-04-03 18:12:32 info: Usuario de prueba creado (GYM) - Carlos López
+2025-04-03 18:12:32 info: Usuario de prueba creado (GYM) - María Rodríguez
+2025-04-03 18:12:32 info: Usuario de prueba creado (GYM) - José Martínez
+2025-04-03 18:12:32 info: Usuario de prueba creado (GYM) - Luisa García
+2025-04-03 18:12:32 info: Usuario de prueba creado (GYM) - Pedro Hernández
+2025-04-03 18:12:32 info: Usuario de prueba creado (GYM) - Laura Sánchez
+2025-04-03 18:12:32 info: Usuario de prueba creado (GYM) - Miguel Martín
+2025-04-03 18:12:32 info: Usuario de prueba creado (GYM) - Elena Pérez
+2025-04-03 18:12:32 info: Server running on port 3000
+2025-04-03 18:12:39 error: Se produjo un error en create-gym controller (platform)
+2025-04-03 18:12:39 error: message is not defined
+2025-04-03 18:13:11 info: Database connected
+2025-04-03 18:13:11 info: Database synced
+2025-04-03 18:13:11 info: Checking platform setup...
+2025-04-03 18:13:11 info: Platform created with id: 3506e456-8402-4428-9b45-1bcbf95670fb
+2025-04-03 18:13:11 info: Checking platform owner role setup
+2025-04-03 18:13:11 info: Owner role created with id: 0b614e12-609d-4042-a791-47bffe4d5cae
+2025-04-03 18:13:11 info: Checking platform admin role setup
+2025-04-03 18:13:11 info: Admin role created with id: 16e55c1c-b76a-467c-a326-fb39195879f4
+2025-04-03 18:13:11 info: Checking platform operator role setup
+2025-04-03 18:13:11 info: Operator role created with id: 0d1930f5-dfdf-4007-836a-5d9b00d8cbeb
+2025-04-03 18:13:11 info: Checking platform owner setup
+2025-04-03 18:13:11 info: Owner created with id: de85e1b5-2e93-4e30-a59a-809aaf2c9a7b
+2025-04-03 18:13:11 info: Platform setup completed
+2025-04-03 18:13:11 info: Platform setup
+2025-04-03 18:13:12 info: Usuario de prueba creado (GYM) - Juan Pérez
+2025-04-03 18:13:12 info: Usuario de prueba creado (GYM) - Ana Gómez
+2025-04-03 18:13:12 info: Usuario de prueba creado (GYM) - Carlos López
+2025-04-03 18:13:12 info: Usuario de prueba creado (GYM) - María Rodríguez
+2025-04-03 18:13:12 info: Usuario de prueba creado (GYM) - José Martínez
+2025-04-03 18:13:12 info: Usuario de prueba creado (GYM) - Luisa García
+2025-04-03 18:13:12 info: Usuario de prueba creado (GYM) - Pedro Hernández
+2025-04-03 18:13:12 info: Usuario de prueba creado (GYM) - Laura Sánchez
+2025-04-03 18:13:12 info: Usuario de prueba creado (GYM) - Miguel Martín
+2025-04-03 18:13:12 info: Usuario de prueba creado (GYM) - Elena Pérez
+2025-04-03 18:13:12 info: Server running on port 3000
+2025-04-03 18:13:27 error: Se produjo un error en create-gym controller (platform)
+2025-04-03 18:13:27 error: message is not defined
+2025-04-03 18:14:20 info: Database connected
+2025-04-03 18:14:20 info: Database synced
+2025-04-03 18:14:20 info: Checking platform setup...
+2025-04-03 18:14:21 info: Platform created with id: 89064df9-9cff-4208-949d-68bfe85c7d7d
+2025-04-03 18:14:21 info: Checking platform owner role setup
+2025-04-03 18:14:21 info: Owner role created with id: f650d9ab-9418-486e-af68-6944b2d4d9fb
+2025-04-03 18:14:21 info: Checking platform admin role setup
+2025-04-03 18:14:21 info: Admin role created with id: 2316d6fd-eab7-4ffe-aca2-0968053eeea3
+2025-04-03 18:14:21 info: Checking platform operator role setup
+2025-04-03 18:14:21 info: Operator role created with id: d9cf8ea5-b9ee-46c0-8392-42b309be7730
+2025-04-03 18:14:21 info: Checking platform owner setup
+2025-04-03 18:14:21 info: Owner created with id: c66d6202-8d4a-420c-a5b2-5412cf16bf3a
+2025-04-03 18:14:21 info: Platform setup completed
+2025-04-03 18:14:21 info: Platform setup
+2025-04-03 18:14:21 info: Usuario de prueba creado (GYM) - Juan Pérez
+2025-04-03 18:14:21 info: Usuario de prueba creado (GYM) - Ana Gómez
+2025-04-03 18:14:21 info: Usuario de prueba creado (GYM) - Carlos López
+2025-04-03 18:14:21 info: Usuario de prueba creado (GYM) - María Rodríguez
+2025-04-03 18:14:21 info: Usuario de prueba creado (GYM) - José Martínez
+2025-04-03 18:14:21 info: Usuario de prueba creado (GYM) - Luisa García
+2025-04-03 18:14:21 info: Usuario de prueba creado (GYM) - Pedro Hernández
+2025-04-03 18:14:21 info: Usuario de prueba creado (GYM) - Laura Sánchez
+2025-04-03 18:14:21 info: Usuario de prueba creado (GYM) - Miguel Martín
+2025-04-03 18:14:21 info: Usuario de prueba creado (GYM) - Elena Pérez
+2025-04-03 18:14:21 info: Server running on port 3000
+2025-04-03 18:14:26 error: Se produjo un error en create-gym controller (platform)
+2025-04-03 18:15:08 info: Database connected
+2025-04-03 18:15:08 info: Database synced
+2025-04-03 18:15:08 info: Checking platform setup...
+2025-04-03 18:15:08 info: Platform created with id: 8edc1f53-be21-43e4-9388-276dc2e8dd4b
+2025-04-03 18:15:08 info: Checking platform owner role setup
+2025-04-03 18:15:08 info: Owner role created with id: 625b63c9-91c6-46c8-aff7-bb49e38c5df7
+2025-04-03 18:15:08 info: Checking platform admin role setup
+2025-04-03 18:15:08 info: Admin role created with id: d0d66808-0f42-4a74-9585-acc404c66690
+2025-04-03 18:15:08 info: Checking platform operator role setup
+2025-04-03 18:15:08 info: Operator role created with id: 5dcc5efd-9507-425c-82ab-970ba7ac7835
+2025-04-03 18:15:08 info: Checking platform owner setup
+2025-04-03 18:15:09 info: Owner created with id: a84465e7-c7cc-478a-8325-799499afa6e2
+2025-04-03 18:15:09 info: Platform setup completed
+2025-04-03 18:15:09 info: Platform setup
+2025-04-03 18:15:09 info: Usuario de prueba creado (GYM) - Juan Pérez
+2025-04-03 18:15:09 info: Usuario de prueba creado (GYM) - Ana Gómez
+2025-04-03 18:15:09 info: Usuario de prueba creado (GYM) - Carlos López
+2025-04-03 18:15:09 info: Usuario de prueba creado (GYM) - María Rodríguez
+2025-04-03 18:15:09 info: Usuario de prueba creado (GYM) - José Martínez
+2025-04-03 18:15:09 info: Usuario de prueba creado (GYM) - Luisa García
+2025-04-03 18:15:09 info: Usuario de prueba creado (GYM) - Pedro Hernández
+2025-04-03 18:15:09 info: Usuario de prueba creado (GYM) - Laura Sánchez
+2025-04-03 18:15:09 info: Usuario de prueba creado (GYM) - Miguel Martín
+2025-04-03 18:15:09 info: Usuario de prueba creado (GYM) - Elena Pérez
+2025-04-03 18:15:09 info: Server running on port 3000
+2025-04-03 18:15:13 error: Se produjo un error en create-gym controller (platform)
+2025-04-03 18:15:54 info: Database connected
+2025-04-03 18:15:55 info: Database synced
+2025-04-03 18:15:55 info: Checking platform setup...
+2025-04-03 18:15:55 info: Platform created with id: 61e0f683-1998-4685-b672-3b59fe8565c5
+2025-04-03 18:15:55 info: Checking platform owner role setup
+2025-04-03 18:15:55 info: Owner role created with id: 1f9af3ae-22df-4937-afe2-85ab8af5d459
+2025-04-03 18:15:55 info: Checking platform admin role setup
+2025-04-03 18:15:55 info: Admin role created with id: 90bb09d2-f590-4a39-bf18-3e34e1f60550
+2025-04-03 18:15:55 info: Checking platform operator role setup
+2025-04-03 18:15:55 info: Operator role created with id: a105409d-b921-44e5-9a99-640122cf2a24
+2025-04-03 18:15:55 info: Checking platform owner setup
+2025-04-03 18:15:55 info: Owner created with id: 02b569c9-7dfe-4b49-821f-3b8ea3846c5f
+2025-04-03 18:15:55 info: Platform setup completed
+2025-04-03 18:15:55 info: Platform setup
+2025-04-03 18:15:55 info: Usuario de prueba creado (GYM) - Juan Pérez
+2025-04-03 18:15:55 info: Usuario de prueba creado (GYM) - Ana Gómez
+2025-04-03 18:15:55 info: Usuario de prueba creado (GYM) - Carlos López
+2025-04-03 18:15:55 info: Usuario de prueba creado (GYM) - María Rodríguez
+2025-04-03 18:15:55 info: Usuario de prueba creado (GYM) - José Martínez
+2025-04-03 18:15:55 info: Usuario de prueba creado (GYM) - Luisa García
+2025-04-03 18:15:55 info: Usuario de prueba creado (GYM) - Pedro Hernández
+2025-04-03 18:15:55 info: Usuario de prueba creado (GYM) - Laura Sánchez
+2025-04-03 18:15:55 info: Usuario de prueba creado (GYM) - Miguel Martín
+2025-04-03 18:15:55 info: Usuario de prueba creado (GYM) - Elena Pérez
+2025-04-03 18:15:55 info: Server running on port 3000
+2025-04-03 18:16:17 info: Database connected
+2025-04-03 18:16:17 info: Database synced
+2025-04-03 18:16:17 info: Checking platform setup...
+2025-04-03 18:16:17 info: Platform created with id: d436302b-9539-4176-8664-0923cf64f1f2
+2025-04-03 18:16:17 info: Checking platform owner role setup
+2025-04-03 18:16:18 info: Owner role created with id: 4c88ad50-f470-46d7-b56b-d250105731c7
+2025-04-03 18:16:18 info: Checking platform admin role setup
+2025-04-03 18:16:18 info: Admin role created with id: 4819ff58-a886-4d57-adbd-0c638f922728
+2025-04-03 18:16:18 info: Checking platform operator role setup
+2025-04-03 18:16:18 info: Operator role created with id: acbfd9f8-f996-4f36-89cd-c0bb673e0ef5
+2025-04-03 18:16:18 info: Checking platform owner setup
+2025-04-03 18:16:18 info: Owner created with id: 184a17e3-7eaa-41af-a85d-f56923fe467c
+2025-04-03 18:16:18 info: Platform setup completed
+2025-04-03 18:16:18 info: Platform setup
+2025-04-03 18:16:18 info: Usuario de prueba creado (GYM) - Juan Pérez
+2025-04-03 18:16:18 info: Usuario de prueba creado (GYM) - Ana Gómez
+2025-04-03 18:16:18 info: Usuario de prueba creado (GYM) - Carlos López
+2025-04-03 18:16:18 info: Usuario de prueba creado (GYM) - María Rodríguez
+2025-04-03 18:16:18 info: Usuario de prueba creado (GYM) - José Martínez
+2025-04-03 18:16:18 info: Usuario de prueba creado (GYM) - Luisa García
+2025-04-03 18:16:18 info: Usuario de prueba creado (GYM) - Pedro Hernández
+2025-04-03 18:16:18 info: Usuario de prueba creado (GYM) - Laura Sánchez
+2025-04-03 18:16:18 info: Usuario de prueba creado (GYM) - Miguel Martín
+2025-04-03 18:16:18 info: Usuario de prueba creado (GYM) - Elena Pérez
+2025-04-03 18:16:18 info: Server running on port 3000
+2025-04-03 18:16:34 info: Database connected
+2025-04-03 18:16:34 info: Database synced
+2025-04-03 18:16:34 info: Checking platform setup...
+2025-04-03 18:16:34 info: Platform created with id: 45c9c5b0-8e55-49f5-8cbc-bac0de2983ff
+2025-04-03 18:16:34 info: Checking platform owner role setup
+2025-04-03 18:16:34 info: Owner role created with id: e728b349-3b44-419d-8466-b30daff92b43
+2025-04-03 18:16:34 info: Checking platform admin role setup
+2025-04-03 18:16:35 info: Admin role created with id: 40685b59-b13e-4252-84bd-9fe1388ceefb
+2025-04-03 18:16:35 info: Checking platform operator role setup
+2025-04-03 18:16:35 info: Operator role created with id: 14a400e7-569b-4791-bb99-5d45e255cb11
+2025-04-03 18:16:35 info: Checking platform owner setup
+2025-04-03 18:16:35 info: Owner created with id: c61ba9b3-b24f-44dc-b545-07d0295df819
+2025-04-03 18:16:35 info: Platform setup completed
+2025-04-03 18:16:35 info: Platform setup
+2025-04-03 18:16:35 info: Usuario de prueba creado (GYM) - Juan Pérez
+2025-04-03 18:16:35 info: Usuario de prueba creado (GYM) - Ana Gómez
+2025-04-03 18:16:35 info: Usuario de prueba creado (GYM) - Carlos López
+2025-04-03 18:16:35 info: Usuario de prueba creado (GYM) - María Rodríguez
+2025-04-03 18:16:35 info: Usuario de prueba creado (GYM) - José Martínez
+2025-04-03 18:16:35 info: Usuario de prueba creado (GYM) - Luisa García
+2025-04-03 18:16:35 info: Usuario de prueba creado (GYM) - Pedro Hernández
+2025-04-03 18:16:35 info: Usuario de prueba creado (GYM) - Laura Sánchez
+2025-04-03 18:16:35 info: Usuario de prueba creado (GYM) - Miguel Martín
+2025-04-03 18:16:35 info: Usuario de prueba creado (GYM) - Elena Pérez
+2025-04-03 18:16:35 info: Server running on port 3000
+2025-04-03 18:16:45 info: Database connected
+2025-04-03 18:16:46 info: Database synced
+2025-04-03 18:16:46 info: Checking platform setup...
+2025-04-03 18:16:46 info: Platform created with id: 4a94c594-161c-4b18-892d-ecb907a3509a
+2025-04-03 18:16:46 info: Checking platform owner role setup
+2025-04-03 18:16:46 info: Owner role created with id: e25cc414-1cd2-47ac-9bc7-6e94708f9910
+2025-04-03 18:16:46 info: Checking platform admin role setup
+2025-04-03 18:16:46 info: Admin role created with id: 2537643e-dcd2-4765-bbe1-021fcff9c346
+2025-04-03 18:16:46 info: Checking platform operator role setup
+2025-04-03 18:16:46 info: Operator role created with id: 4b590d71-3ad8-4b64-a9a7-3f91e70ef31d
+2025-04-03 18:16:46 info: Checking platform owner setup
+2025-04-03 18:16:46 info: Owner created with id: 9efd365c-53b2-48a1-9cb1-c31dd2f8ceaa
+2025-04-03 18:16:46 info: Platform setup completed
+2025-04-03 18:16:46 info: Platform setup
+2025-04-03 18:16:46 info: Usuario de prueba creado (GYM) - Juan Pérez
+2025-04-03 18:16:46 info: Usuario de prueba creado (GYM) - Ana Gómez
+2025-04-03 18:16:46 info: Usuario de prueba creado (GYM) - Carlos López
+2025-04-03 18:16:46 info: Usuario de prueba creado (GYM) - María Rodríguez
+2025-04-03 18:16:46 info: Usuario de prueba creado (GYM) - José Martínez
+2025-04-03 18:16:46 info: Usuario de prueba creado (GYM) - Luisa García
+2025-04-03 18:16:46 info: Usuario de prueba creado (GYM) - Pedro Hernández
+2025-04-03 18:16:46 info: Usuario de prueba creado (GYM) - Laura Sánchez
+2025-04-03 18:16:46 info: Usuario de prueba creado (GYM) - Miguel Martín
+2025-04-03 18:16:46 info: Usuario de prueba creado (GYM) - Elena Pérez
+2025-04-03 18:16:46 info: Server running on port 3000
+2025-04-03 18:16:52 error: Se produjo un error en create-gym controller (platform)
+2025-04-03 18:16:52 error: message is not defined
+2025-04-03 18:17:17 info: Database connected
+2025-04-03 18:17:17 info: Database synced
+2025-04-03 18:17:17 info: Checking platform setup...
+2025-04-03 18:17:17 info: Platform created with id: 22ef9118-70a3-4523-b681-e80b85acef3e
+2025-04-03 18:17:17 info: Checking platform owner role setup
+2025-04-03 18:17:17 info: Owner role created with id: c47f6fea-5f85-498c-b3d1-c93ae832f47b
+2025-04-03 18:17:17 info: Checking platform admin role setup
+2025-04-03 18:17:17 info: Admin role created with id: 24cd8f35-0aec-470a-ac36-40c986b9887b
+2025-04-03 18:17:17 info: Checking platform operator role setup
+2025-04-03 18:17:17 info: Operator role created with id: 3ab8db37-edf6-4b4d-ac11-09f5ab133211
+2025-04-03 18:17:17 info: Checking platform owner setup
+2025-04-03 18:17:17 info: Owner created with id: bedcc610-a4b2-4692-9a6d-7f08a7abacce
+2025-04-03 18:17:17 info: Platform setup completed
+2025-04-03 18:17:17 info: Platform setup
+2025-04-03 18:17:18 info: Usuario de prueba creado (GYM) - Juan Pérez
+2025-04-03 18:17:18 info: Usuario de prueba creado (GYM) - Ana Gómez
+2025-04-03 18:17:18 info: Usuario de prueba creado (GYM) - Carlos López
+2025-04-03 18:17:18 info: Usuario de prueba creado (GYM) - María Rodríguez
+2025-04-03 18:17:18 info: Usuario de prueba creado (GYM) - José Martínez
+2025-04-03 18:17:18 info: Usuario de prueba creado (GYM) - Luisa García
+2025-04-03 18:17:18 info: Usuario de prueba creado (GYM) - Pedro Hernández
+2025-04-03 18:17:18 info: Usuario de prueba creado (GYM) - Laura Sánchez
+2025-04-03 18:17:18 info: Usuario de prueba creado (GYM) - Miguel Martín
+2025-04-03 18:17:18 info: Usuario de prueba creado (GYM) - Elena Pérez
+2025-04-03 18:17:18 info: Server running on port 3000
+2025-04-03 18:17:20 error: Se produjo un error en create-gym controller (platform)
+2025-04-03 18:17:20 error: message is not defined
+2025-04-03 18:19:18 info: Database connected
+2025-04-03 18:19:19 info: Database synced
+2025-04-03 18:19:19 info: Checking platform setup...
+2025-04-03 18:19:19 info: Platform created with id: 74e87736-029e-4eef-8e1f-010f5d12aaa2
+2025-04-03 18:19:19 info: Checking platform owner role setup
+2025-04-03 18:19:19 info: Owner role created with id: b1233f64-948e-4dc7-a611-25f30b790362
+2025-04-03 18:19:19 info: Checking platform admin role setup
+2025-04-03 18:19:19 info: Admin role created with id: f9f33c14-1b5d-45c4-8634-c376f62e12ae
+2025-04-03 18:19:19 info: Checking platform operator role setup
+2025-04-03 18:19:19 info: Operator role created with id: 54354120-0f27-4de5-bca3-c0eed784a460
+2025-04-03 18:19:19 info: Checking platform owner setup
+2025-04-03 18:19:19 info: Owner created with id: b875d11d-c428-40d5-8248-9e0f1999734b
+2025-04-03 18:19:19 info: Platform setup completed
+2025-04-03 18:19:19 info: Platform setup
+2025-04-03 18:19:19 info: Usuario de prueba creado (GYM) - Juan Pérez
+2025-04-03 18:19:19 info: Usuario de prueba creado (GYM) - Ana Gómez
+2025-04-03 18:19:19 info: Usuario de prueba creado (GYM) - Carlos López
+2025-04-03 18:19:19 info: Usuario de prueba creado (GYM) - María Rodríguez
+2025-04-03 18:19:19 info: Usuario de prueba creado (GYM) - José Martínez
+2025-04-03 18:19:19 info: Usuario de prueba creado (GYM) - Luisa García
+2025-04-03 18:19:19 info: Usuario de prueba creado (GYM) - Pedro Hernández
+2025-04-03 18:19:19 info: Usuario de prueba creado (GYM) - Laura Sánchez
+2025-04-03 18:19:19 info: Usuario de prueba creado (GYM) - Miguel Martín
+2025-04-03 18:19:19 info: Usuario de prueba creado (GYM) - Elena Pérez
+2025-04-03 18:19:19 info: Server running on port 3000
+2025-04-05 19:26:59 info: Database connected
+2025-04-05 19:27:03 info: Database synced
+2025-04-05 19:27:03 info: Checking platform setup...
+2025-04-05 19:27:04 info: Platform created with id: 4b34dc57-d0ec-4912-9ab1-897d9a86445d
+2025-04-05 19:27:04 info: Checking platform owner role setup
+2025-04-05 19:27:04 info: Owner role created with id: 03c207c1-7fe1-41df-8131-a92d11eb45f1
+2025-04-05 19:27:04 info: Checking platform admin role setup
+2025-04-05 19:27:04 info: Admin role created with id: f4b9c5dd-cc63-4eca-882b-e31fc4d3aded
+2025-04-05 19:27:04 info: Checking platform operator role setup
+2025-04-05 19:27:04 info: Operator role created with id: 40381551-9d44-41a2-bc3b-83fba7559e15
+2025-04-05 19:27:04 info: Checking platform owner setup
+2025-04-05 19:27:04 info: Owner created with id: 29571791-0dec-4620-9506-d44cd772184c
+2025-04-05 19:27:04 info: Platform setup completed
+2025-04-05 19:27:04 info: Platform setup
+2025-04-05 19:27:04 info: Usuario de prueba creado (GYM) - Juan Pérez
+2025-04-05 19:27:04 info: Usuario de prueba creado (GYM) - Ana Gómez
+2025-04-05 19:27:04 info: Usuario de prueba creado (GYM) - Carlos López
+2025-04-05 19:27:04 info: Usuario de prueba creado (GYM) - María Rodríguez
+2025-04-05 19:27:04 info: Usuario de prueba creado (GYM) - José Martínez
+2025-04-05 19:27:04 info: Usuario de prueba creado (GYM) - Luisa García
+2025-04-05 19:27:04 info: Usuario de prueba creado (GYM) - Pedro Hernández
+2025-04-05 19:27:04 info: Usuario de prueba creado (GYM) - Laura Sánchez
+2025-04-05 19:27:04 info: Usuario de prueba creado (GYM) - Miguel Martín
+2025-04-05 19:27:05 info: Usuario de prueba creado (GYM) - Elena Pérez
+2025-04-05 19:27:05 info: Server running on port 3000
+2025-04-05 19:29:25 error: Se produjo un error en create-gym controller (platform)
+2025-04-05 19:29:25 error: message is not defined
+2025-04-05 19:30:06 info: Database connected
+2025-04-05 19:30:08 info: Database synced
+2025-04-05 19:30:08 info: Checking platform setup...
+2025-04-05 19:30:08 info: Platform created with id: 902d8d86-f535-48d2-b4e7-faba10dc9c6e
+2025-04-05 19:30:08 info: Checking platform owner role setup
+2025-04-05 19:30:08 info: Owner role created with id: 92afa4d6-bc33-4459-8ad4-9508903a01ce
+2025-04-05 19:30:08 info: Checking platform admin role setup
+2025-04-05 19:30:08 info: Admin role created with id: 379f92bf-1fc5-4985-bc6a-0f21a226e260
+2025-04-05 19:30:08 info: Checking platform operator role setup
+2025-04-05 19:30:08 info: Operator role created with id: 34a910b7-81d9-4204-bf52-c8bb5c7caa8d
+2025-04-05 19:30:08 info: Checking platform owner setup
+2025-04-05 19:30:09 info: Owner created with id: 198c90b6-5a1e-4957-a453-a2e99dc1497d
+2025-04-05 19:30:09 info: Platform setup completed
+2025-04-05 19:30:09 info: Platform setup
+2025-04-05 19:30:09 info: Usuario de prueba creado (GYM) - Juan Pérez
+2025-04-05 19:30:09 info: Usuario de prueba creado (GYM) - Ana Gómez
+2025-04-05 19:30:09 info: Usuario de prueba creado (GYM) - Carlos López
+2025-04-05 19:30:09 info: Usuario de prueba creado (GYM) - María Rodríguez
+2025-04-05 19:30:09 info: Usuario de prueba creado (GYM) - José Martínez
+2025-04-05 19:30:09 info: Usuario de prueba creado (GYM) - Luisa García
+2025-04-05 19:30:09 info: Usuario de prueba creado (GYM) - Pedro Hernández
+2025-04-05 19:30:09 info: Usuario de prueba creado (GYM) - Laura Sánchez
+2025-04-05 19:30:09 info: Usuario de prueba creado (GYM) - Miguel Martín
+2025-04-05 19:30:09 info: Usuario de prueba creado (GYM) - Elena Pérez
+2025-04-05 19:30:09 info: Server running on port 3000
+2025-04-05 19:30:35 info: Database connected
+2025-04-05 19:30:36 info: Database synced
+2025-04-05 19:30:36 info: Checking platform setup...
+2025-04-05 19:30:36 info: Platform created with id: 53fc3abb-088c-48f0-8656-0399eeca4d20
+2025-04-05 19:30:36 info: Checking platform owner role setup
+2025-04-05 19:30:36 info: Owner role created with id: 8618082a-3ed5-460e-b2fd-834f180397da
+2025-04-05 19:30:36 info: Checking platform admin role setup
+2025-04-05 19:30:36 info: Admin role created with id: ec54ff4e-8bc4-4d54-bab8-b1273a274177
+2025-04-05 19:30:36 info: Checking platform operator role setup
+2025-04-05 19:30:36 info: Operator role created with id: 49ab2300-6551-452f-abb3-5bcc3f11dbc8
+2025-04-05 19:30:36 info: Checking platform owner setup
+2025-04-05 19:30:36 info: Owner created with id: d0953e1b-488d-4080-85e3-f50e51d1d9ae
+2025-04-05 19:30:36 info: Platform setup completed
+2025-04-05 19:30:36 info: Platform setup
+2025-04-05 19:30:36 info: Usuario de prueba creado (GYM) - Juan Pérez
+2025-04-05 19:30:36 info: Usuario de prueba creado (GYM) - Ana Gómez
+2025-04-05 19:30:36 info: Usuario de prueba creado (GYM) - Carlos López
+2025-04-05 19:30:36 info: Usuario de prueba creado (GYM) - María Rodríguez
+2025-04-05 19:30:36 info: Usuario de prueba creado (GYM) - José Martínez
+2025-04-05 19:30:36 info: Usuario de prueba creado (GYM) - Luisa García
+2025-04-05 19:30:36 info: Usuario de prueba creado (GYM) - Pedro Hernández
+2025-04-05 19:30:36 info: Usuario de prueba creado (GYM) - Laura Sánchez
+2025-04-05 19:30:36 info: Usuario de prueba creado (GYM) - Miguel Martín
+2025-04-05 19:30:36 info: Usuario de prueba creado (GYM) - Elena Pérez
+2025-04-05 19:30:36 info: Server running on port 3000
+2025-04-05 19:30:56 info: Database connected
+2025-04-05 19:30:57 info: Database synced
+2025-04-05 19:30:57 info: Checking platform setup...
+2025-04-05 19:30:57 info: Platform created with id: cb277809-4a16-403b-b4cd-509b3387feed
+2025-04-05 19:30:57 info: Checking platform owner role setup
+2025-04-05 19:30:57 info: Owner role created with id: f84fd87f-49fe-4fa8-9f27-3248086ff70f
+2025-04-05 19:30:57 info: Checking platform admin role setup
+2025-04-05 19:30:57 info: Admin role created with id: 0801aacc-99f5-4787-8d18-898d275ded59
+2025-04-05 19:30:57 info: Checking platform operator role setup
+2025-04-05 19:30:57 info: Operator role created with id: 5964da68-bd42-4998-80ef-e654349567da
+2025-04-05 19:30:57 info: Checking platform owner setup
+2025-04-05 19:30:57 info: Owner created with id: 4c95c937-c2f5-4251-b55a-44e8174258d8
+2025-04-05 19:30:57 info: Platform setup completed
+2025-04-05 19:30:57 info: Platform setup
+2025-04-05 19:30:57 info: Usuario de prueba creado (GYM) - Juan Pérez
+2025-04-05 19:30:57 info: Usuario de prueba creado (GYM) - Ana Gómez
+2025-04-05 19:30:57 info: Usuario de prueba creado (GYM) - Carlos López
+2025-04-05 19:30:57 info: Usuario de prueba creado (GYM) - María Rodríguez
+2025-04-05 19:30:57 info: Usuario de prueba creado (GYM) - José Martínez
+2025-04-05 19:30:57 info: Usuario de prueba creado (GYM) - Luisa García
+2025-04-05 19:30:57 info: Usuario de prueba creado (GYM) - Pedro Hernández
+2025-04-05 19:30:57 info: Usuario de prueba creado (GYM) - Laura Sánchez
+2025-04-05 19:30:57 info: Usuario de prueba creado (GYM) - Miguel Martín
+2025-04-05 19:30:57 info: Usuario de prueba creado (GYM) - Elena Pérez
+2025-04-05 19:30:57 info: Server running on port 3000
+2025-04-05 19:31:07 info: Database connected
+2025-04-05 19:31:11 info: Database synced
+2025-04-05 19:31:11 info: Checking platform setup...
+2025-04-05 19:31:11 info: Platform created with id: acd25f38-464b-4836-8134-f232ae60544e
+2025-04-05 19:31:11 info: Checking platform owner role setup
+2025-04-05 19:31:11 info: Owner role created with id: fe151488-1e81-483c-9c9b-3a60bb0c8fff
+2025-04-05 19:31:11 info: Checking platform admin role setup
+2025-04-05 19:31:11 info: Admin role created with id: 00cace92-b9ac-46b7-9143-f12e00acf8db
+2025-04-05 19:31:11 info: Checking platform operator role setup
+2025-04-05 19:31:11 info: Operator role created with id: 49889909-51e1-44ae-941c-ed4341538ac1
+2025-04-05 19:31:11 info: Checking platform owner setup
+2025-04-05 19:31:11 info: Owner created with id: 359dfd75-026a-4061-9ab4-c94519b6e0ed
+2025-04-05 19:31:11 info: Platform setup completed
+2025-04-05 19:31:11 info: Platform setup
+2025-04-05 19:31:12 info: Usuario de prueba creado (GYM) - Juan Pérez
+2025-04-05 19:31:12 info: Usuario de prueba creado (GYM) - Ana Gómez
+2025-04-05 19:31:12 info: Usuario de prueba creado (GYM) - Carlos López
+2025-04-05 19:31:12 info: Usuario de prueba creado (GYM) - María Rodríguez
+2025-04-05 19:31:12 info: Usuario de prueba creado (GYM) - José Martínez
+2025-04-05 19:31:12 info: Usuario de prueba creado (GYM) - Luisa García
+2025-04-05 19:31:12 info: Usuario de prueba creado (GYM) - Pedro Hernández
+2025-04-05 19:31:12 info: Usuario de prueba creado (GYM) - Laura Sánchez
+2025-04-05 19:31:13 info: Usuario de prueba creado (GYM) - Miguel Martín
+2025-04-05 19:31:13 info: Usuario de prueba creado (GYM) - Elena Pérez
+2025-04-05 19:31:13 info: Server running on port 3000
+2025-04-05 19:32:29 info: Database connected
+2025-04-05 19:32:32 info: Database synced
+2025-04-05 19:32:32 info: Checking platform setup...
+2025-04-05 19:32:32 info: Platform created with id: 3af550d1-36c7-4596-bcc9-e9484aaba03f
+2025-04-05 19:32:32 info: Checking platform owner role setup
+2025-04-05 19:32:33 info: Owner role created with id: b597ce7f-ec0f-4dff-83f6-97b244717988
+2025-04-05 19:32:33 info: Checking platform admin role setup
+2025-04-05 19:32:33 info: Admin role created with id: 9eb8e8e8-68d4-4722-9eed-0766cf8a7590
+2025-04-05 19:32:33 info: Checking platform operator role setup
+2025-04-05 19:32:33 info: Operator role created with id: 8f75196d-1128-4df0-90b0-f5adcc28271c
+2025-04-05 19:32:33 info: Checking platform owner setup
+2025-04-05 19:32:33 info: Owner created with id: 1cbce2dd-9ae1-49bd-9e68-7a3f0f1e602a
+2025-04-05 19:32:33 info: Platform setup completed
+2025-04-05 19:32:33 info: Platform setup
+2025-04-05 19:32:33 info: Usuario de prueba creado (GYM) - Juan Pérez
+2025-04-05 19:32:33 info: Usuario de prueba creado (GYM) - Ana Gómez
+2025-04-05 19:32:33 info: Usuario de prueba creado (GYM) - Carlos López
+2025-04-05 19:32:33 info: Usuario de prueba creado (GYM) - María Rodríguez
+2025-04-05 19:32:33 info: Usuario de prueba creado (GYM) - José Martínez
+2025-04-05 19:32:33 info: Usuario de prueba creado (GYM) - Luisa García
+2025-04-05 19:32:33 info: Usuario de prueba creado (GYM) - Pedro Hernández
+2025-04-05 19:32:33 info: Usuario de prueba creado (GYM) - Laura Sánchez
+2025-04-05 19:32:33 info: Usuario de prueba creado (GYM) - Miguel Martín
+2025-04-05 19:32:33 info: Usuario de prueba creado (GYM) - Elena Pérez
+2025-04-05 19:32:33 info: Server running on port 3000
+2025-04-05 19:32:36 error: Se produjo un error en create-gym controller (platform)
+2025-04-05 19:32:36 error: message is not defined
+2025-04-05 19:32:59 info: Database connected
+2025-04-05 19:33:00 info: Database synced
+2025-04-05 19:33:00 info: Checking platform setup...
+2025-04-05 19:33:00 info: Platform created with id: 46b0bb70-a967-44f3-aeb2-5a664d698354
+2025-04-05 19:33:00 info: Checking platform owner role setup
+2025-04-05 19:33:00 info: Owner role created with id: 0a0b985f-7c65-4d4a-9665-e8392f167e5c
+2025-04-05 19:33:00 info: Checking platform admin role setup
+2025-04-05 19:33:00 info: Admin role created with id: b4aa6044-2034-4708-a33c-c141980389b7
+2025-04-05 19:33:00 info: Checking platform operator role setup
+2025-04-05 19:33:00 info: Operator role created with id: d48a01bd-d645-477b-b390-b5f66189bcf6
+2025-04-05 19:33:00 info: Checking platform owner setup
+2025-04-05 19:33:00 info: Owner created with id: e09a5c25-8afa-4768-82a1-2981051ff7f3
+2025-04-05 19:33:00 info: Platform setup completed
+2025-04-05 19:33:00 info: Platform setup
+2025-04-05 19:33:00 info: Usuario de prueba creado (GYM) - Juan Pérez
+2025-04-05 19:33:00 info: Usuario de prueba creado (GYM) - Ana Gómez
+2025-04-05 19:33:00 info: Usuario de prueba creado (GYM) - Carlos López
+2025-04-05 19:33:00 info: Usuario de prueba creado (GYM) - María Rodríguez
+2025-04-05 19:33:00 info: Usuario de prueba creado (GYM) - José Martínez
+2025-04-05 19:33:00 info: Usuario de prueba creado (GYM) - Luisa García
+2025-04-05 19:33:00 info: Usuario de prueba creado (GYM) - Pedro Hernández
+2025-04-05 19:33:00 info: Usuario de prueba creado (GYM) - Laura Sánchez
+2025-04-05 19:33:00 info: Usuario de prueba creado (GYM) - Miguel Martín
+2025-04-05 19:33:00 info: Usuario de prueba creado (GYM) - Elena Pérez
+2025-04-05 19:33:00 info: Server running on port 3000
+2025-04-05 19:33:18 info: Database connected
+2025-04-05 19:33:19 info: Database synced
+2025-04-05 19:33:19 info: Checking platform setup...
+2025-04-05 19:33:19 info: Platform created with id: 81390d45-8a57-4305-8250-10e95e971a4f
+2025-04-05 19:33:19 info: Checking platform owner role setup
+2025-04-05 19:33:19 info: Owner role created with id: 000827a4-11c0-460f-b64e-28b2d55ab7d9
+2025-04-05 19:33:19 info: Checking platform admin role setup
+2025-04-05 19:33:19 info: Admin role created with id: efb76a61-f8a0-4b3b-83d3-49f1f785cda0
+2025-04-05 19:33:19 info: Checking platform operator role setup
+2025-04-05 19:33:19 info: Operator role created with id: 6dbde4eb-798b-4efd-b370-e57c6b80c8bd
+2025-04-05 19:33:19 info: Checking platform owner setup
+2025-04-05 19:33:19 info: Owner created with id: 368aaa2c-4930-4d48-8729-f394057abef0
+2025-04-05 19:33:19 info: Platform setup completed
+2025-04-05 19:33:19 info: Platform setup
+2025-04-05 19:33:19 info: Usuario de prueba creado (GYM) - Juan Pérez
+2025-04-05 19:33:19 info: Usuario de prueba creado (GYM) - Ana Gómez
+2025-04-05 19:33:19 info: Usuario de prueba creado (GYM) - Carlos López
+2025-04-05 19:33:19 info: Usuario de prueba creado (GYM) - María Rodríguez
+2025-04-05 19:33:19 info: Usuario de prueba creado (GYM) - José Martínez
+2025-04-05 19:33:19 info: Usuario de prueba creado (GYM) - Luisa García
+2025-04-05 19:33:19 info: Usuario de prueba creado (GYM) - Pedro Hernández
+2025-04-05 19:33:19 info: Usuario de prueba creado (GYM) - Laura Sánchez
+2025-04-05 19:33:19 info: Usuario de prueba creado (GYM) - Miguel Martín
+2025-04-05 19:33:19 info: Usuario de prueba creado (GYM) - Elena Pérez
+2025-04-05 19:33:19 info: Server running on port 3000
+2025-04-05 19:33:57 info: Database connected
+2025-04-05 19:33:58 info: Database synced
+2025-04-05 19:33:58 info: Checking platform setup...
+2025-04-05 19:33:58 info: Platform created with id: 2b91fe1a-0adb-4111-8429-b4c7f00e1fc7
+2025-04-05 19:33:58 info: Checking platform owner role setup
+2025-04-05 19:33:58 info: Owner role created with id: f0e35b5e-1ec8-4f49-9428-dbbbf75278fe
+2025-04-05 19:33:58 info: Checking platform admin role setup
+2025-04-05 19:33:58 info: Admin role created with id: 144c49b2-e4f8-4118-80b2-48bcc7301961
+2025-04-05 19:33:58 info: Checking platform operator role setup
+2025-04-05 19:33:58 info: Operator role created with id: 6a815913-e427-4e67-b102-2544522a10fc
+2025-04-05 19:33:58 info: Checking platform owner setup
+2025-04-05 19:33:58 info: Owner created with id: 4b7c4e8a-94c7-48e6-bf50-38117a4d73e6
+2025-04-05 19:33:58 info: Platform setup completed
+2025-04-05 19:33:58 info: Platform setup
+2025-04-05 19:33:58 info: Usuario de prueba creado (GYM) - Juan Pérez
+2025-04-05 19:33:58 info: Usuario de prueba creado (GYM) - Ana Gómez
+2025-04-05 19:33:58 info: Usuario de prueba creado (GYM) - Carlos López
+2025-04-05 19:33:58 info: Usuario de prueba creado (GYM) - María Rodríguez
+2025-04-05 19:33:58 info: Usuario de prueba creado (GYM) - José Martínez
+2025-04-05 19:33:58 info: Usuario de prueba creado (GYM) - Luisa García
+2025-04-05 19:33:58 info: Usuario de prueba creado (GYM) - Pedro Hernández
+2025-04-05 19:33:58 info: Usuario de prueba creado (GYM) - Laura Sánchez
+2025-04-05 19:33:58 info: Usuario de prueba creado (GYM) - Miguel Martín
+2025-04-05 19:33:58 info: Usuario de prueba creado (GYM) - Elena Pérez
+2025-04-05 19:33:58 info: Server running on port 3000
+2025-04-05 19:35:39 info: Database connected
+2025-04-05 19:35:40 info: Database synced
+2025-04-05 19:35:40 info: Checking platform setup...
+2025-04-05 19:35:40 info: Platform created with id: 21317b3f-0598-4e09-945e-dca7002e5aae
+2025-04-05 19:35:40 info: Checking platform owner role setup
+2025-04-05 19:35:40 info: Owner role created with id: 64f91ff4-7521-43f8-8973-f949ce4c2ec4
+2025-04-05 19:35:40 info: Checking platform admin role setup
+2025-04-05 19:35:40 info: Admin role created with id: d934249d-b490-42a2-9a8e-f8060bdab087
+2025-04-05 19:35:40 info: Checking platform operator role setup
+2025-04-05 19:35:40 info: Operator role created with id: 7c7a831d-279b-42bc-b1b7-39dde55657f2
+2025-04-05 19:35:40 info: Checking platform owner setup
+2025-04-05 19:35:40 info: Owner created with id: ea950cc2-d5d4-4907-92bf-1cbbe3a208c9
+2025-04-05 19:35:40 info: Platform setup completed
+2025-04-05 19:35:40 info: Platform setup
+2025-04-05 19:35:40 info: Usuario de prueba creado (GYM) - Juan Pérez
+2025-04-05 19:35:40 info: Usuario de prueba creado (GYM) - Ana Gómez
+2025-04-05 19:35:40 info: Usuario de prueba creado (GYM) - Carlos López
+2025-04-05 19:35:40 info: Usuario de prueba creado (GYM) - María Rodríguez
+2025-04-05 19:35:40 info: Usuario de prueba creado (GYM) - José Martínez
+2025-04-05 19:35:40 info: Usuario de prueba creado (GYM) - Luisa García
+2025-04-05 19:35:40 info: Usuario de prueba creado (GYM) - Pedro Hernández
+2025-04-05 19:35:40 info: Usuario de prueba creado (GYM) - Laura Sánchez
+2025-04-05 19:35:40 info: Usuario de prueba creado (GYM) - Miguel Martín
+2025-04-05 19:35:40 info: Usuario de prueba creado (GYM) - Elena Pérez
+2025-04-05 19:35:40 info: Server running on port 3000
+2025-04-05 19:36:43 info: Database connected
+2025-04-05 19:36:44 info: Database synced
+2025-04-05 19:36:44 info: Checking platform setup...
+2025-04-05 19:36:44 info: Platform created with id: 70bdfb1a-e7bb-413f-853f-869a5230ff98
+2025-04-05 19:36:44 info: Checking platform owner role setup
+2025-04-05 19:36:44 info: Owner role created with id: 39227a6d-8448-4c06-914b-0990f6343a9b
+2025-04-05 19:36:44 info: Checking platform admin role setup
+2025-04-05 19:36:44 info: Admin role created with id: 11d6a8c8-924a-48e3-9dbf-c27feab35fff
+2025-04-05 19:36:44 info: Checking platform operator role setup
+2025-04-05 19:36:44 info: Operator role created with id: 68628ac4-12fe-4fed-ba17-7996768d6032
+2025-04-05 19:36:44 info: Checking platform owner setup
+2025-04-05 19:36:44 info: Owner created with id: 18517709-c3e9-44f2-836f-4806961c29e8
+2025-04-05 19:36:44 info: Platform setup completed
+2025-04-05 19:36:44 info: Platform setup
+2025-04-05 19:36:44 info: Usuario de prueba creado (GYM) - Juan Pérez
+2025-04-05 19:36:44 info: Usuario de prueba creado (GYM) - Ana Gómez
+2025-04-05 19:36:44 info: Usuario de prueba creado (GYM) - Carlos López
+2025-04-05 19:36:44 info: Usuario de prueba creado (GYM) - María Rodríguez
+2025-04-05 19:36:44 info: Usuario de prueba creado (GYM) - José Martínez
+2025-04-05 19:36:44 info: Usuario de prueba creado (GYM) - Luisa García
+2025-04-05 19:36:44 info: Usuario de prueba creado (GYM) - Pedro Hernández
+2025-04-05 19:36:44 info: Usuario de prueba creado (GYM) - Laura Sánchez
+2025-04-05 19:36:44 info: Usuario de prueba creado (GYM) - Miguel Martín
+2025-04-05 19:36:44 info: Usuario de prueba creado (GYM) - Elena Pérez
+2025-04-05 19:36:44 info: Server running on port 3000
+2025-04-05 19:39:29 info: Database connected
+2025-04-05 19:39:29 info: Database synced
+2025-04-05 19:39:29 info: Checking platform setup...
+2025-04-05 19:39:30 info: Platform created with id: f5060cf1-61f1-4e5d-b3f6-17eb72f9a669
+2025-04-05 19:39:30 info: Checking platform owner role setup
+2025-04-05 19:39:30 info: Owner role created with id: de4360f8-16f4-403a-a4a7-2935fd557720
+2025-04-05 19:39:30 info: Checking platform admin role setup
+2025-04-05 19:39:30 info: Admin role created with id: cec72efb-23d9-4ee5-8b27-788bfe512bcc
+2025-04-05 19:39:30 info: Checking platform operator role setup
+2025-04-05 19:39:30 info: Operator role created with id: 417b587f-49e0-4656-a9c7-ed6dbc023342
+2025-04-05 19:39:30 info: Checking platform owner setup
+2025-04-05 19:39:30 info: Owner created with id: 9987a314-5783-4ada-b828-62f54c8ed484
+2025-04-05 19:39:30 info: Platform setup completed
+2025-04-05 19:39:30 info: Platform setup
+2025-04-05 19:39:30 info: Usuario de prueba creado (GYM) - Juan Pérez
+2025-04-05 19:39:30 info: Usuario de prueba creado (GYM) - Ana Gómez
+2025-04-05 19:39:30 info: Usuario de prueba creado (GYM) - Carlos López
+2025-04-05 19:39:30 info: Usuario de prueba creado (GYM) - María Rodríguez
+2025-04-05 19:39:30 info: Usuario de prueba creado (GYM) - José Martínez
+2025-04-05 19:39:30 info: Usuario de prueba creado (GYM) - Luisa García
+2025-04-05 19:39:30 info: Usuario de prueba creado (GYM) - Pedro Hernández
+2025-04-05 19:39:30 info: Usuario de prueba creado (GYM) - Laura Sánchez
+2025-04-05 19:39:30 info: Usuario de prueba creado (GYM) - Miguel Martín
+2025-04-05 19:39:30 info: Usuario de prueba creado (GYM) - Elena Pérez
+2025-04-05 19:39:30 info: Server running on port 3000
+2025-04-05 19:39:44 info: Database connected
+2025-04-05 19:39:45 info: Database synced
+2025-04-05 19:39:45 info: Checking platform setup...
+2025-04-05 19:39:45 info: Platform created with id: f25ec07d-af31-415a-ad8c-83c8468440bb
+2025-04-05 19:39:45 info: Checking platform owner role setup
+2025-04-05 19:39:45 info: Owner role created with id: e0e467ea-9032-4dea-af57-3199f435abcc
+2025-04-05 19:39:45 info: Checking platform admin role setup
+2025-04-05 19:39:45 info: Admin role created with id: 39b7e0e1-4a28-41ea-b469-77eb8a1238cb
+2025-04-05 19:39:45 info: Checking platform operator role setup
+2025-04-05 19:39:45 info: Operator role created with id: 27dc6a7e-2dbb-4851-8655-b69469e83e7c
+2025-04-05 19:39:45 info: Checking platform owner setup
+2025-04-05 19:39:45 info: Owner created with id: e89e12cd-3fc5-478b-b0ca-d4ea1054993e
+2025-04-05 19:39:45 info: Platform setup completed
+2025-04-05 19:39:45 info: Platform setup
+2025-04-05 19:39:45 info: Usuario de prueba creado (GYM) - Juan Pérez
+2025-04-05 19:39:45 info: Usuario de prueba creado (GYM) - Ana Gómez
+2025-04-05 19:39:45 info: Usuario de prueba creado (GYM) - Carlos López
+2025-04-05 19:39:45 info: Usuario de prueba creado (GYM) - María Rodríguez
+2025-04-05 19:39:45 info: Usuario de prueba creado (GYM) - José Martínez
+2025-04-05 19:39:45 info: Usuario de prueba creado (GYM) - Luisa García
+2025-04-05 19:39:45 info: Usuario de prueba creado (GYM) - Pedro Hernández
+2025-04-05 19:39:45 info: Usuario de prueba creado (GYM) - Laura Sánchez
+2025-04-05 19:39:45 info: Usuario de prueba creado (GYM) - Miguel Martín
+2025-04-05 19:39:45 info: Usuario de prueba creado (GYM) - Elena Pérez
+2025-04-05 19:39:45 info: Server running on port 3000
+2025-04-05 19:39:52 info: Database connected
+2025-04-05 19:39:53 info: Database synced
+2025-04-05 19:39:53 info: Checking platform setup...
+2025-04-05 19:39:53 info: Platform created with id: 752e1d73-0377-46b3-bab2-565bb8ec485c
+2025-04-05 19:39:53 info: Checking platform owner role setup
+2025-04-05 19:39:53 info: Owner role created with id: f463b966-ac4a-4083-87ac-8d4421f9300c
+2025-04-05 19:39:53 info: Checking platform admin role setup
+2025-04-05 19:39:53 info: Admin role created with id: fd5ad9e5-f283-4769-ac9b-2934cea899c1
+2025-04-05 19:39:53 info: Checking platform operator role setup
+2025-04-05 19:39:53 info: Operator role created with id: 0b88a755-d6d6-45f5-8803-ad85c83ec89c
+2025-04-05 19:39:53 info: Checking platform owner setup
+2025-04-05 19:39:53 info: Owner created with id: 8e16eb6f-d5cd-4aea-81c5-0631ca9a6e32
+2025-04-05 19:39:53 info: Platform setup completed
+2025-04-05 19:39:53 info: Platform setup
+2025-04-05 19:39:53 info: Usuario de prueba creado (GYM) - Juan Pérez
+2025-04-05 19:39:53 info: Usuario de prueba creado (GYM) - Ana Gómez
+2025-04-05 19:39:53 info: Usuario de prueba creado (GYM) - Carlos López
+2025-04-05 19:39:53 info: Usuario de prueba creado (GYM) - María Rodríguez
+2025-04-05 19:39:53 info: Usuario de prueba creado (GYM) - José Martínez
+2025-04-05 19:39:53 info: Usuario de prueba creado (GYM) - Luisa García
+2025-04-05 19:39:53 info: Usuario de prueba creado (GYM) - Pedro Hernández
+2025-04-05 19:39:53 info: Usuario de prueba creado (GYM) - Laura Sánchez
+2025-04-05 19:39:53 info: Usuario de prueba creado (GYM) - Miguel Martín
+2025-04-05 19:39:53 info: Usuario de prueba creado (GYM) - Elena Pérez
+2025-04-05 19:39:53 info: Server running on port 3000
+2025-04-05 19:39:55 info: Database connected
+2025-04-05 19:39:57 info: Database connected
+2025-04-05 19:39:57 info: Database synced
+2025-04-05 19:39:57 info: Checking platform setup...
+2025-04-05 19:39:57 info: Platform created with id: 01ddabbb-b9a7-4291-a97a-3324d4c72d3b
+2025-04-05 19:39:57 info: Checking platform owner role setup
+2025-04-05 19:39:57 info: Owner role created with id: 6fd855d2-81fc-4621-b86b-0bec09b3d531
+2025-04-05 19:39:57 info: Checking platform admin role setup
+2025-04-05 19:39:57 info: Admin role created with id: 00147462-2a93-4702-9b95-e10cb5e08827
+2025-04-05 19:39:57 info: Checking platform operator role setup
+2025-04-05 19:39:57 info: Operator role created with id: 147225c9-821f-4172-969a-0b8ee597ba66
+2025-04-05 19:39:57 info: Checking platform owner setup
+2025-04-05 19:39:57 info: Owner created with id: d80ba1fa-ccd5-4a70-a85b-6d962986685e
+2025-04-05 19:39:57 info: Platform setup completed
+2025-04-05 19:39:57 info: Platform setup
+2025-04-05 19:39:57 info: Usuario de prueba creado (GYM) - Juan Pérez
+2025-04-05 19:39:57 info: Usuario de prueba creado (GYM) - Ana Gómez
+2025-04-05 19:39:57 info: Usuario de prueba creado (GYM) - Carlos López
+2025-04-05 19:39:57 info: Usuario de prueba creado (GYM) - María Rodríguez
+2025-04-05 19:39:57 info: Usuario de prueba creado (GYM) - José Martínez
+2025-04-05 19:39:57 info: Usuario de prueba creado (GYM) - Luisa García
+2025-04-05 19:39:57 info: Usuario de prueba creado (GYM) - Pedro Hernández
+2025-04-05 19:39:57 info: Usuario de prueba creado (GYM) - Laura Sánchez
+2025-04-05 19:39:57 info: Usuario de prueba creado (GYM) - Miguel Martín
+2025-04-05 19:39:57 info: Usuario de prueba creado (GYM) - Elena Pérez
+2025-04-05 19:39:57 info: Server running on port 3000
+2025-04-05 19:40:15 info: Database connected
+2025-04-05 19:40:15 info: Database synced
+2025-04-05 19:40:15 info: Checking platform setup...
+2025-04-05 19:40:15 info: Platform created with id: c0633834-2f78-44c8-869e-bb45be20afe3
+2025-04-05 19:40:15 info: Checking platform owner role setup
+2025-04-05 19:40:15 info: Owner role created with id: 93b26509-3754-4d1f-8b32-0b5d170f959e
+2025-04-05 19:40:15 info: Checking platform admin role setup
+2025-04-05 19:40:15 info: Admin role created with id: 94db61f9-783a-403a-9263-7fa5b386bfcb
+2025-04-05 19:40:15 info: Checking platform operator role setup
+2025-04-05 19:40:15 info: Operator role created with id: 9fcf4f45-dd4f-4792-8d61-15aaa120f39f
+2025-04-05 19:40:15 info: Checking platform owner setup
+2025-04-05 19:40:15 info: Owner created with id: 7f7b3587-dc20-4093-9489-2cbabff6e168
+2025-04-05 19:40:15 info: Platform setup completed
+2025-04-05 19:40:15 info: Platform setup
+2025-04-05 19:40:15 info: Usuario de prueba creado (GYM) - Juan Pérez
+2025-04-05 19:40:15 info: Usuario de prueba creado (GYM) - Ana Gómez
+2025-04-05 19:40:15 info: Usuario de prueba creado (GYM) - Carlos López
+2025-04-05 19:40:15 info: Usuario de prueba creado (GYM) - María Rodríguez
+2025-04-05 19:40:15 info: Usuario de prueba creado (GYM) - José Martínez
+2025-04-05 19:40:15 info: Usuario de prueba creado (GYM) - Luisa García
+2025-04-05 19:40:15 info: Usuario de prueba creado (GYM) - Pedro Hernández
+2025-04-05 19:40:15 info: Usuario de prueba creado (GYM) - Laura Sánchez
+2025-04-05 19:40:15 info: Usuario de prueba creado (GYM) - Miguel Martín
+2025-04-05 19:40:15 info: Usuario de prueba creado (GYM) - Elena Pérez
+2025-04-05 19:40:15 info: Server running on port 3000
+2025-04-05 19:40:17 info: Database connected
+2025-04-05 19:40:18 info: Database synced
+2025-04-05 19:40:18 info: Checking platform setup...
+2025-04-05 19:40:18 info: Platform created with id: fa7de4e3-f809-46e3-be5a-7586a1c4a428
+2025-04-05 19:40:18 info: Checking platform owner role setup
+2025-04-05 19:40:18 info: Owner role created with id: 9d7ec653-d89d-4a1c-acdf-b092901e4193
+2025-04-05 19:40:18 info: Checking platform admin role setup
+2025-04-05 19:40:18 info: Admin role created with id: 2acd7a7d-271e-4528-90f1-0651513a7c1e
+2025-04-05 19:40:18 info: Checking platform operator role setup
+2025-04-05 19:40:18 info: Operator role created with id: 8b46b4c2-6bf4-4197-bb45-5297a1378bd7
+2025-04-05 19:40:18 info: Checking platform owner setup
+2025-04-05 19:40:18 info: Owner created with id: 15425c7a-6999-475b-9d25-c3e9a53566cf
+2025-04-05 19:40:18 info: Platform setup completed
+2025-04-05 19:40:18 info: Platform setup
+2025-04-05 19:40:18 info: Usuario de prueba creado (GYM) - Juan Pérez
+2025-04-05 19:40:18 info: Usuario de prueba creado (GYM) - Ana Gómez
+2025-04-05 19:40:18 info: Usuario de prueba creado (GYM) - Carlos López
+2025-04-05 19:40:18 info: Usuario de prueba creado (GYM) - María Rodríguez
+2025-04-05 19:40:18 info: Usuario de prueba creado (GYM) - José Martínez
+2025-04-05 19:40:18 info: Usuario de prueba creado (GYM) - Luisa García
+2025-04-05 19:40:18 info: Usuario de prueba creado (GYM) - Pedro Hernández
+2025-04-05 19:40:18 info: Usuario de prueba creado (GYM) - Laura Sánchez
+2025-04-05 19:40:18 info: Usuario de prueba creado (GYM) - Miguel Martín
+2025-04-05 19:40:18 info: Usuario de prueba creado (GYM) - Elena Pérez
+2025-04-05 19:40:18 info: Server running on port 3000
+2025-04-05 19:43:01 info: Database connected
+2025-04-05 19:43:40 info: Database connected
+2025-04-05 19:43:42 info: Database synced
+2025-04-05 19:43:42 info: Checking platform setup...
+2025-04-05 19:43:42 info: Platform created with id: f6a4db7d-5824-4073-aef1-2e39269028f4
+2025-04-05 19:43:42 info: Checking platform owner role setup
+2025-04-05 19:43:42 info: Owner role created with id: 8cdbd738-cc8d-4dac-b545-1f43c86b5937
+2025-04-05 19:43:42 info: Checking platform admin role setup
+2025-04-05 19:43:42 info: Admin role created with id: 6d797d58-8f23-4b82-bd63-bbcacb9c5e95
+2025-04-05 19:43:42 info: Checking platform operator role setup
+2025-04-05 19:43:42 info: Operator role created with id: 6b081012-2a1c-44fe-9c56-eca09b34991a
+2025-04-05 19:43:42 info: Checking platform owner setup
+2025-04-05 19:43:42 info: Owner created with id: d935de2c-df06-493a-93ae-92e53f20c740
+2025-04-05 19:43:42 info: Platform setup completed
+2025-04-05 19:43:42 info: Platform setup
+2025-04-05 19:43:42 info: Usuario de prueba creado (GYM) - Juan Pérez
+2025-04-05 19:43:42 info: Usuario de prueba creado (GYM) - Ana Gómez
+2025-04-05 19:43:42 info: Usuario de prueba creado (GYM) - Carlos López
+2025-04-05 19:43:42 info: Usuario de prueba creado (GYM) - María Rodríguez
+2025-04-05 19:43:42 info: Usuario de prueba creado (GYM) - José Martínez
+2025-04-05 19:43:42 info: Usuario de prueba creado (GYM) - Luisa García
+2025-04-05 19:43:42 info: Usuario de prueba creado (GYM) - Pedro Hernández
+2025-04-05 19:43:42 info: Usuario de prueba creado (GYM) - Laura Sánchez
+2025-04-05 19:43:42 info: Usuario de prueba creado (GYM) - Miguel Martín
+2025-04-05 19:43:42 info: Usuario de prueba creado (GYM) - Elena Pérez
+2025-04-05 19:43:42 info: Server running on port 3000
+2025-04-05 19:46:58 info: Database connected
+2025-04-05 19:46:59 info: Database synced
+2025-04-05 19:46:59 info: Checking platform setup...
+2025-04-05 19:46:59 info: Platform created with id: d54f8923-793f-482b-bcb6-91c070dfd0f2
+2025-04-05 19:46:59 info: Checking platform owner role setup
+2025-04-05 19:46:59 info: Owner role created with id: 842df198-a2fb-46cb-bde9-5d0b888470b3
+2025-04-05 19:46:59 info: Checking platform admin role setup
+2025-04-05 19:46:59 info: Admin role created with id: 19f8cd66-50fe-433f-937d-8946dd81e362
+2025-04-05 19:46:59 info: Checking platform operator role setup
+2025-04-05 19:46:59 info: Operator role created with id: 55f410c2-da01-4228-881a-1938dd2e50a1
+2025-04-05 19:46:59 info: Checking platform owner setup
+2025-04-05 19:46:59 info: Owner created with id: 972180f9-314f-4b20-a642-c07d40881c04
+2025-04-05 19:46:59 info: Platform setup completed
+2025-04-05 19:46:59 info: Platform setup
+2025-04-05 19:46:59 info: Usuario de prueba creado (GYM) - Juan Pérez
+2025-04-05 19:46:59 info: Usuario de prueba creado (GYM) - Ana Gómez
+2025-04-05 19:46:59 info: Usuario de prueba creado (GYM) - Carlos López
+2025-04-05 19:46:59 info: Usuario de prueba creado (GYM) - María Rodríguez
+2025-04-05 19:46:59 info: Usuario de prueba creado (GYM) - José Martínez
+2025-04-05 19:46:59 info: Usuario de prueba creado (GYM) - Luisa García
+2025-04-05 19:46:59 info: Usuario de prueba creado (GYM) - Pedro Hernández
+2025-04-05 19:46:59 info: Usuario de prueba creado (GYM) - Laura Sánchez
+2025-04-05 19:47:00 info: Usuario de prueba creado (GYM) - Miguel Martín
+2025-04-05 19:47:00 info: Usuario de prueba creado (GYM) - Elena Pérez
+2025-04-05 19:47:00 info: Server running on port 3000
+2025-04-05 19:50:04 info: Database connected
+2025-04-05 19:50:04 info: Database synced
+2025-04-05 19:50:04 info: Checking platform setup...
+2025-04-05 19:50:04 info: Platform created with id: b0dc94a1-7800-45bd-b731-16405b464b86
+2025-04-05 19:50:04 info: Checking platform owner role setup
+2025-04-05 19:50:04 info: Owner role created with id: e72ff7ca-206b-48e6-acb5-f3546185dd99
+2025-04-05 19:50:04 info: Checking platform admin role setup
+2025-04-05 19:50:04 info: Admin role created with id: d78cc3cb-d41e-4d86-af4a-9c75fa1fec81
+2025-04-05 19:50:04 info: Checking platform operator role setup
+2025-04-05 19:50:04 info: Operator role created with id: c60b7479-e356-4ed2-961d-cc40a32c275b
+2025-04-05 19:50:04 info: Checking platform owner setup
+2025-04-05 19:50:04 info: Owner created with id: 04a52885-29ad-42ca-b1b4-d9761c26ef0b
+2025-04-05 19:50:04 info: Platform setup completed
+2025-04-05 19:50:04 info: Platform setup
+2025-04-05 19:50:04 info: Usuario de prueba creado (GYM) - Juan Pérez
+2025-04-05 19:50:04 info: Usuario de prueba creado (GYM) - Ana Gómez
+2025-04-05 19:50:04 info: Usuario de prueba creado (GYM) - Carlos López
+2025-04-05 19:50:04 info: Usuario de prueba creado (GYM) - María Rodríguez
+2025-04-05 19:50:05 info: Usuario de prueba creado (GYM) - José Martínez
+2025-04-05 19:50:05 info: Usuario de prueba creado (GYM) - Luisa García
+2025-04-05 19:50:05 info: Usuario de prueba creado (GYM) - Pedro Hernández
+2025-04-05 19:50:05 info: Usuario de prueba creado (GYM) - Laura Sánchez
+2025-04-05 19:50:05 info: Usuario de prueba creado (GYM) - Miguel Martín
+2025-04-05 19:50:05 info: Usuario de prueba creado (GYM) - Elena Pérez
+2025-04-05 19:50:05 info: Server running on port 3000
+2025-04-05 19:50:14 info: Database connected
+2025-04-05 19:50:14 info: Database synced
+2025-04-05 19:50:14 info: Checking platform setup...
+2025-04-05 19:50:14 info: Checking platform owner role setup
+2025-04-05 19:50:14 info: Owner role already exists
+2025-04-05 19:50:14 info: Checking platform admin role setup
+2025-04-05 19:50:14 info: Admin role already exists
+2025-04-05 19:50:14 info: Checking platform operator role setup
+2025-04-05 19:50:14 info: Operator role already exists
+2025-04-05 19:50:14 info: Checking platform owner setup
+2025-04-05 19:50:14 info: Owner already exists
+2025-04-05 19:50:14 info: Platform setup completed
+2025-04-05 19:50:14 info: Platform setup
+2025-04-05 19:50:14 info: El usuario ya existía (GYM) - Juan Pérez
+2025-04-05 19:50:14 info: El usuario ya existía (GYM) - Ana Gómez
+2025-04-05 19:50:14 info: El usuario ya existía (GYM) - Carlos López
+2025-04-05 19:50:14 info: El usuario ya existía (GYM) - María Rodríguez
+2025-04-05 19:50:14 info: El usuario ya existía (GYM) - José Martínez
+2025-04-05 19:50:14 info: El usuario ya existía (GYM) - Luisa García
+2025-04-05 19:50:14 info: El usuario ya existía (GYM) - Pedro Hernández
+2025-04-05 19:50:14 info: El usuario ya existía (GYM) - Laura Sánchez
+2025-04-05 19:50:14 info: El usuario ya existía (GYM) - Miguel Martín
+2025-04-05 19:50:14 info: El usuario ya existía (GYM) - Elena Pérez
+2025-04-05 19:50:14 info: Server running on port 3000
+2025-04-05 19:50:54 info: Database connected
+2025-04-05 19:50:54 info: Database synced
+2025-04-05 19:50:54 info: Checking platform setup...
+2025-04-05 19:50:54 info: Checking platform owner role setup
+2025-04-05 19:50:54 info: Owner role already exists
+2025-04-05 19:50:54 info: Checking platform admin role setup
+2025-04-05 19:50:54 info: Admin role already exists
+2025-04-05 19:50:54 info: Checking platform operator role setup
+2025-04-05 19:50:54 info: Operator role already exists
+2025-04-05 19:50:54 info: Checking platform owner setup
+2025-04-05 19:50:54 info: Owner already exists
+2025-04-05 19:50:54 info: Platform setup completed
+2025-04-05 19:50:54 info: Platform setup
+2025-04-05 19:50:54 info: El usuario ya existía (GYM) - Juan Pérez
+2025-04-05 19:50:54 info: El usuario ya existía (GYM) - Ana Gómez
+2025-04-05 19:50:54 info: El usuario ya existía (GYM) - Carlos López
+2025-04-05 19:50:54 info: El usuario ya existía (GYM) - María Rodríguez
+2025-04-05 19:50:54 info: El usuario ya existía (GYM) - José Martínez
+2025-04-05 19:50:54 info: El usuario ya existía (GYM) - Luisa García
+2025-04-05 19:50:54 info: El usuario ya existía (GYM) - Pedro Hernández
+2025-04-05 19:50:54 info: El usuario ya existía (GYM) - Laura Sánchez
+2025-04-05 19:50:54 info: El usuario ya existía (GYM) - Miguel Martín
+2025-04-05 19:50:54 info: El usuario ya existía (GYM) - Elena Pérez
+2025-04-05 19:50:54 info: Server running on port 3000
+2025-04-05 19:51:05 info: Database connected
+2025-04-05 19:51:05 info: Database synced
+2025-04-05 19:51:05 info: Checking platform setup...
+2025-04-05 19:51:05 info: Checking platform owner role setup
+2025-04-05 19:51:05 info: Owner role already exists
+2025-04-05 19:51:05 info: Checking platform admin role setup
+2025-04-05 19:51:05 info: Admin role already exists
+2025-04-05 19:51:05 info: Checking platform operator role setup
+2025-04-05 19:51:05 info: Operator role already exists
+2025-04-05 19:51:05 info: Checking platform owner setup
+2025-04-05 19:51:05 info: Owner already exists
+2025-04-05 19:51:05 info: Platform setup completed
+2025-04-05 19:51:05 info: Platform setup
+2025-04-05 19:51:05 info: El usuario ya existía (GYM) - Juan Pérez
+2025-04-05 19:51:05 info: El usuario ya existía (GYM) - Ana Gómez
+2025-04-05 19:51:05 info: El usuario ya existía (GYM) - Carlos López
+2025-04-05 19:51:05 info: El usuario ya existía (GYM) - María Rodríguez
+2025-04-05 19:51:05 info: El usuario ya existía (GYM) - José Martínez
+2025-04-05 19:51:05 info: El usuario ya existía (GYM) - Luisa García
+2025-04-05 19:51:05 info: El usuario ya existía (GYM) - Pedro Hernández
+2025-04-05 19:51:05 info: El usuario ya existía (GYM) - Laura Sánchez
+2025-04-05 19:51:05 info: El usuario ya existía (GYM) - Miguel Martín
+2025-04-05 19:51:05 info: El usuario ya existía (GYM) - Elena Pérez
+2025-04-05 19:51:05 info: Server running on port 3000
+2025-04-05 19:51:08 info: Database connected
+2025-04-05 19:51:08 info: Database synced
+2025-04-05 19:51:08 info: Checking platform setup...
+2025-04-05 19:51:08 info: Checking platform owner role setup
+2025-04-05 19:51:08 info: Owner role already exists
+2025-04-05 19:51:08 info: Checking platform admin role setup
+2025-04-05 19:51:08 info: Admin role already exists
+2025-04-05 19:51:08 info: Checking platform operator role setup
+2025-04-05 19:51:08 info: Operator role already exists
+2025-04-05 19:51:08 info: Checking platform owner setup
+2025-04-05 19:51:08 info: Owner already exists
+2025-04-05 19:51:08 info: Platform setup completed
+2025-04-05 19:51:08 info: Platform setup
+2025-04-05 19:51:08 info: El usuario ya existía (GYM) - Juan Pérez
+2025-04-05 19:51:08 info: El usuario ya existía (GYM) - Ana Gómez
+2025-04-05 19:51:08 info: El usuario ya existía (GYM) - Carlos López
+2025-04-05 19:51:08 info: El usuario ya existía (GYM) - María Rodríguez
+2025-04-05 19:51:08 info: El usuario ya existía (GYM) - José Martínez
+2025-04-05 19:51:08 info: El usuario ya existía (GYM) - Luisa García
+2025-04-05 19:51:08 info: El usuario ya existía (GYM) - Pedro Hernández
+2025-04-05 19:51:08 info: El usuario ya existía (GYM) - Laura Sánchez
+2025-04-05 19:51:08 info: El usuario ya existía (GYM) - Miguel Martín
+2025-04-05 19:51:08 info: El usuario ya existía (GYM) - Elena Pérez
+2025-04-05 19:51:08 info: Server running on port 3000
+2025-04-05 19:52:45 info: Database connected
+2025-04-05 19:52:46 info: Database synced
+2025-04-05 19:52:46 info: Checking platform setup...
+2025-04-05 19:52:46 info: Checking platform owner role setup
+2025-04-05 19:52:46 info: Owner role already exists
+2025-04-05 19:52:46 info: Checking platform admin role setup
+2025-04-05 19:52:46 info: Admin role already exists
+2025-04-05 19:52:46 info: Checking platform operator role setup
+2025-04-05 19:52:46 info: Operator role already exists
+2025-04-05 19:52:46 info: Checking platform owner setup
+2025-04-05 19:52:46 info: Owner already exists
+2025-04-05 19:52:46 info: Platform setup completed
+2025-04-05 19:52:46 info: Platform setup
+2025-04-05 19:52:46 info: El usuario ya existía (GYM) - Juan Pérez
+2025-04-05 19:52:46 info: El usuario ya existía (GYM) - Ana Gómez
+2025-04-05 19:52:46 info: El usuario ya existía (GYM) - Carlos López
+2025-04-05 19:52:46 info: El usuario ya existía (GYM) - María Rodríguez
+2025-04-05 19:52:46 info: El usuario ya existía (GYM) - José Martínez
+2025-04-05 19:52:46 info: El usuario ya existía (GYM) - Luisa García
+2025-04-05 19:52:46 info: El usuario ya existía (GYM) - Pedro Hernández
+2025-04-05 19:52:46 info: El usuario ya existía (GYM) - Laura Sánchez
+2025-04-05 19:52:46 info: El usuario ya existía (GYM) - Miguel Martín
+2025-04-05 19:52:46 info: El usuario ya existía (GYM) - Elena Pérez
+2025-04-05 19:52:46 info: Server running on port 3000
+2025-04-05 19:53:49 info: Database connected
+2025-04-05 19:53:49 info: Database synced
+2025-04-05 19:53:49 info: Checking platform setup...
+2025-04-05 19:53:49 info: Checking platform owner role setup
+2025-04-05 19:53:49 info: Owner role already exists
+2025-04-05 19:53:49 info: Checking platform admin role setup
+2025-04-05 19:53:49 info: Admin role already exists
+2025-04-05 19:53:49 info: Checking platform operator role setup
+2025-04-05 19:53:49 info: Operator role already exists
+2025-04-05 19:53:49 info: Checking platform owner setup
+2025-04-05 19:53:49 info: Owner already exists
+2025-04-05 19:53:49 info: Platform setup completed
+2025-04-05 19:53:49 info: Platform setup
+2025-04-05 19:53:49 info: El usuario ya existía (GYM) - Juan Pérez
+2025-04-05 19:53:49 info: El usuario ya existía (GYM) - Ana Gómez
+2025-04-05 19:53:49 info: El usuario ya existía (GYM) - Carlos López
+2025-04-05 19:53:49 info: El usuario ya existía (GYM) - María Rodríguez
+2025-04-05 19:53:49 info: El usuario ya existía (GYM) - José Martínez
+2025-04-05 19:53:49 info: El usuario ya existía (GYM) - Luisa García
+2025-04-05 19:53:49 info: El usuario ya existía (GYM) - Pedro Hernández
+2025-04-05 19:53:49 info: El usuario ya existía (GYM) - Laura Sánchez
+2025-04-05 19:53:49 info: El usuario ya existía (GYM) - Miguel Martín
+2025-04-05 19:53:49 info: El usuario ya existía (GYM) - Elena Pérez
+2025-04-05 19:53:49 info: Server running on port 3000
+2025-04-05 19:56:17 info: Database connected
+2025-04-05 19:56:17 info: Database synced
+2025-04-05 19:56:17 info: Checking platform setup...
+2025-04-05 19:56:17 info: Checking platform owner role setup
+2025-04-05 19:56:17 info: Owner role already exists
+2025-04-05 19:56:17 info: Checking platform admin role setup
+2025-04-05 19:56:17 info: Admin role already exists
+2025-04-05 19:56:17 info: Checking platform operator role setup
+2025-04-05 19:56:17 info: Operator role already exists
+2025-04-05 19:56:17 info: Checking platform owner setup
+2025-04-05 19:56:17 info: Owner already exists
+2025-04-05 19:56:17 info: Platform setup completed
+2025-04-05 19:56:17 info: Platform setup
+2025-04-05 19:56:17 info: El usuario ya existía (GYM) - Juan Pérez
+2025-04-05 19:56:17 info: El usuario ya existía (GYM) - Ana Gómez
+2025-04-05 19:56:17 info: El usuario ya existía (GYM) - Carlos López
+2025-04-05 19:56:17 info: El usuario ya existía (GYM) - María Rodríguez
+2025-04-05 19:56:17 info: El usuario ya existía (GYM) - José Martínez
+2025-04-05 19:56:17 info: El usuario ya existía (GYM) - Luisa García
+2025-04-05 19:56:17 info: El usuario ya existía (GYM) - Pedro Hernández
+2025-04-05 19:56:17 info: El usuario ya existía (GYM) - Laura Sánchez
+2025-04-05 19:56:17 info: El usuario ya existía (GYM) - Miguel Martín
+2025-04-05 19:56:17 info: El usuario ya existía (GYM) - Elena Pérez
+2025-04-05 19:56:17 info: Server running on port 3000
+2025-04-05 19:56:52 info: Database connected
+2025-04-05 19:56:52 info: Database synced
+2025-04-05 19:56:52 info: Checking platform setup...
+2025-04-05 19:56:52 info: Checking platform owner role setup
+2025-04-05 19:56:52 info: Owner role already exists
+2025-04-05 19:56:52 info: Checking platform admin role setup
+2025-04-05 19:56:52 info: Admin role already exists
+2025-04-05 19:56:52 info: Checking platform operator role setup
+2025-04-05 19:56:52 info: Operator role already exists
+2025-04-05 19:56:52 info: Checking platform owner setup
+2025-04-05 19:56:52 info: Owner already exists
+2025-04-05 19:56:52 info: Platform setup completed
+2025-04-05 19:56:52 info: Platform setup
+2025-04-05 19:56:52 info: El usuario ya existía (GYM) - Juan Pérez
+2025-04-05 19:56:52 info: El usuario ya existía (GYM) - Ana Gómez
+2025-04-05 19:56:52 info: El usuario ya existía (GYM) - Carlos López
+2025-04-05 19:56:52 info: El usuario ya existía (GYM) - María Rodríguez
+2025-04-05 19:56:52 info: El usuario ya existía (GYM) - José Martínez
+2025-04-05 19:56:52 info: El usuario ya existía (GYM) - Luisa García
+2025-04-05 19:56:52 info: El usuario ya existía (GYM) - Pedro Hernández
+2025-04-05 19:56:52 info: El usuario ya existía (GYM) - Laura Sánchez
+2025-04-05 19:56:52 info: El usuario ya existía (GYM) - Miguel Martín
+2025-04-05 19:56:52 info: El usuario ya existía (GYM) - Elena Pérez
+2025-04-05 19:56:52 info: Server running on port 3000
+2025-04-05 19:56:55 info: Database connected
+2025-04-05 19:56:55 info: Database synced
+2025-04-05 19:56:55 info: Checking platform setup...
+2025-04-05 19:56:55 info: Checking platform owner role setup
+2025-04-05 19:56:55 info: Owner role already exists
+2025-04-05 19:56:55 info: Checking platform admin role setup
+2025-04-05 19:56:55 info: Admin role already exists
+2025-04-05 19:56:55 info: Checking platform operator role setup
+2025-04-05 19:56:55 info: Operator role already exists
+2025-04-05 19:56:55 info: Checking platform owner setup
+2025-04-05 19:56:55 info: Owner already exists
+2025-04-05 19:56:55 info: Platform setup completed
+2025-04-05 19:56:55 info: Platform setup
+2025-04-05 19:56:55 info: El usuario ya existía (GYM) - Juan Pérez
+2025-04-05 19:56:55 info: El usuario ya existía (GYM) - Ana Gómez
+2025-04-05 19:56:55 info: El usuario ya existía (GYM) - Carlos López
+2025-04-05 19:56:55 info: El usuario ya existía (GYM) - María Rodríguez
+2025-04-05 19:56:55 info: El usuario ya existía (GYM) - José Martínez
+2025-04-05 19:56:55 info: El usuario ya existía (GYM) - Luisa García
+2025-04-05 19:56:55 info: El usuario ya existía (GYM) - Pedro Hernández
+2025-04-05 19:56:55 info: El usuario ya existía (GYM) - Laura Sánchez
+2025-04-05 19:56:55 info: El usuario ya existía (GYM) - Miguel Martín
+2025-04-05 19:56:55 info: El usuario ya existía (GYM) - Elena Pérez
+2025-04-05 19:56:55 info: Server running on port 3000
+2025-04-05 19:59:21 info: Database connected
+2025-04-05 19:59:21 info: Database synced
+2025-04-05 19:59:21 info: Checking platform setup...
+2025-04-05 19:59:21 info: Checking platform owner role setup
+2025-04-05 19:59:21 info: Owner role already exists
+2025-04-05 19:59:21 info: Checking platform admin role setup
+2025-04-05 19:59:21 info: Admin role already exists
+2025-04-05 19:59:21 info: Checking platform operator role setup
+2025-04-05 19:59:21 info: Operator role already exists
+2025-04-05 19:59:21 info: Checking platform owner setup
+2025-04-05 19:59:21 info: Owner already exists
+2025-04-05 19:59:21 info: Platform setup completed
+2025-04-05 19:59:21 info: Platform setup
+2025-04-05 19:59:21 info: El usuario ya existía (GYM) - Juan Pérez
+2025-04-05 19:59:21 info: El usuario ya existía (GYM) - Ana Gómez
+2025-04-05 19:59:21 info: El usuario ya existía (GYM) - Carlos López
+2025-04-05 19:59:21 info: El usuario ya existía (GYM) - María Rodríguez
+2025-04-05 19:59:21 info: El usuario ya existía (GYM) - José Martínez
+2025-04-05 19:59:21 info: El usuario ya existía (GYM) - Luisa García
+2025-04-05 19:59:21 info: El usuario ya existía (GYM) - Pedro Hernández
+2025-04-05 19:59:21 info: El usuario ya existía (GYM) - Laura Sánchez
+2025-04-05 19:59:21 info: El usuario ya existía (GYM) - Miguel Martín
+2025-04-05 19:59:21 info: El usuario ya existía (GYM) - Elena Pérez
+2025-04-05 19:59:21 info: Server running on port 3000
+2025-04-05 20:00:08 error: No Sequelize instance passed
+2025-04-05 20:02:25 error: No Sequelize instance passed
+2025-04-05 20:04:27 error: No Sequelize instance passed
+2025-04-05 20:06:16 error: No Sequelize instance passed
+2025-04-05 20:09:01 error: No Sequelize instance passed
+2025-04-05 20:09:18 error: No Sequelize instance passed
+2025-04-05 20:09:27 error: No Sequelize instance passed
+2025-04-05 20:11:16 error: No Sequelize instance passed
+2025-04-05 20:11:23 error: No Sequelize instance passed
+2025-04-05 20:11:45 info: Database connected
+2025-04-05 20:11:45 info: Database synced
+2025-04-05 20:11:45 info: Checking platform setup...
+2025-04-05 20:11:45 info: Checking platform owner role setup
+2025-04-05 20:11:45 info: Owner role already exists
+2025-04-05 20:11:45 info: Checking platform admin role setup
+2025-04-05 20:11:45 info: Admin role already exists
+2025-04-05 20:11:45 info: Checking platform operator role setup
+2025-04-05 20:11:45 info: Operator role already exists
+2025-04-05 20:11:45 info: Checking platform owner setup
+2025-04-05 20:11:45 info: Owner already exists
+2025-04-05 20:11:45 info: Platform setup completed
+2025-04-05 20:11:45 info: Platform setup
+2025-04-05 20:11:45 info: El usuario ya existía (GYM) - Juan Pérez
+2025-04-05 20:11:45 info: El usuario ya existía (GYM) - Ana Gómez
+2025-04-05 20:11:45 info: El usuario ya existía (GYM) - Carlos López
+2025-04-05 20:11:45 info: El usuario ya existía (GYM) - María Rodríguez
+2025-04-05 20:11:45 info: El usuario ya existía (GYM) - José Martínez
+2025-04-05 20:11:45 info: El usuario ya existía (GYM) - Luisa García
+2025-04-05 20:11:45 info: El usuario ya existía (GYM) - Pedro Hernández
+2025-04-05 20:11:45 info: El usuario ya existía (GYM) - Laura Sánchez
+2025-04-05 20:11:45 info: El usuario ya existía (GYM) - Miguel Martín
+2025-04-05 20:11:45 info: El usuario ya existía (GYM) - Elena Pérez
+2025-04-05 20:11:45 info: Server running on port 3000
+2025-04-05 20:11:53 error: Se produjo un error en create gym platform controller
+2025-04-05 20:12:44 info: Database connected
+2025-04-05 20:12:44 info: Database synced
+2025-04-05 20:12:44 info: Checking platform setup...
+2025-04-05 20:12:44 info: Checking platform owner role setup
+2025-04-05 20:12:44 info: Owner role already exists
+2025-04-05 20:12:44 info: Checking platform admin role setup
+2025-04-05 20:12:44 info: Admin role already exists
+2025-04-05 20:12:44 info: Checking platform operator role setup
+2025-04-05 20:12:44 info: Operator role already exists
+2025-04-05 20:12:44 info: Checking platform owner setup
+2025-04-05 20:12:44 info: Owner already exists
+2025-04-05 20:12:44 info: Platform setup completed
+2025-04-05 20:12:44 info: Platform setup
+2025-04-05 20:12:44 info: El usuario ya existía (GYM) - Juan Pérez
+2025-04-05 20:12:44 info: El usuario ya existía (GYM) - Ana Gómez
+2025-04-05 20:12:44 info: El usuario ya existía (GYM) - Carlos López
+2025-04-05 20:12:44 info: El usuario ya existía (GYM) - María Rodríguez
+2025-04-05 20:12:44 info: El usuario ya existía (GYM) - José Martínez
+2025-04-05 20:12:44 info: El usuario ya existía (GYM) - Luisa García
+2025-04-05 20:12:44 info: El usuario ya existía (GYM) - Pedro Hernández
+2025-04-05 20:12:44 info: El usuario ya existía (GYM) - Laura Sánchez
+2025-04-05 20:12:44 info: El usuario ya existía (GYM) - Miguel Martín
+2025-04-05 20:12:44 info: El usuario ya existía (GYM) - Elena Pérez
+2025-04-05 20:12:44 info: Server running on port 3000
+2025-04-05 20:12:59 info: Database connected
+2025-04-05 20:13:00 info: Database synced
+2025-04-05 20:13:00 info: Checking platform setup...
+2025-04-05 20:13:00 info: Platform created with id: 057f05c1-b9e0-4969-9fa4-8e92b8c863a2
+2025-04-05 20:13:00 info: Checking platform owner role setup
+2025-04-05 20:13:00 info: Owner role created with id: 095b9e15-ff67-4139-8be4-95e1e06a8f7b
+2025-04-05 20:13:00 info: Checking platform admin role setup
+2025-04-05 20:13:00 info: Admin role created with id: 4fed9a02-ef3c-4dcf-a82e-89badce464c1
+2025-04-05 20:13:00 info: Checking platform operator role setup
+2025-04-05 20:13:00 info: Operator role created with id: 038e8d9b-d792-428b-9d63-3ee22d66476e
+2025-04-05 20:13:00 info: Checking platform owner setup
+2025-04-05 20:13:00 info: Owner created with id: d209c6b5-4341-42c1-9bc7-acf40b310c14
+2025-04-05 20:13:00 info: Platform setup completed
+2025-04-05 20:13:00 info: Platform setup
+2025-04-05 20:13:00 info: Usuario de prueba creado (GYM) - Juan Pérez
+2025-04-05 20:13:00 info: Usuario de prueba creado (GYM) - Ana Gómez
+2025-04-05 20:13:00 info: Usuario de prueba creado (GYM) - Carlos López
+2025-04-05 20:13:00 info: Usuario de prueba creado (GYM) - María Rodríguez
+2025-04-05 20:13:01 info: Usuario de prueba creado (GYM) - José Martínez
+2025-04-05 20:13:01 info: Usuario de prueba creado (GYM) - Luisa García
+2025-04-05 20:13:01 info: Usuario de prueba creado (GYM) - Pedro Hernández
+2025-04-05 20:13:01 info: Usuario de prueba creado (GYM) - Laura Sánchez
+2025-04-05 20:13:01 info: Usuario de prueba creado (GYM) - Miguel Martín
+2025-04-05 20:13:01 info: Usuario de prueba creado (GYM) - Elena Pérez
+2025-04-05 20:13:01 info: Server running on port 3000
+2025-04-05 20:13:37 error: Se produjo un error en create gym platform controller
+2025-04-05 20:14:25 info: Database connected
+2025-04-05 20:14:26 info: Database synced
+2025-04-05 20:14:26 info: Checking platform setup...
+2025-04-05 20:14:26 info: Platform created with id: 886ad9c4-cca7-4c2d-ac09-5caf044f9622
+2025-04-05 20:14:26 info: Checking platform owner role setup
+2025-04-05 20:14:26 info: Owner role created with id: 814f5558-d27f-43f6-93e3-1b3080cd6d83
+2025-04-05 20:14:26 info: Checking platform admin role setup
+2025-04-05 20:14:26 info: Admin role created with id: 8abf1c8e-a365-45f1-ae31-87f9236c491c
+2025-04-05 20:14:26 info: Checking platform operator role setup
+2025-04-05 20:14:26 info: Operator role created with id: 2b3eb728-0edc-4500-90ca-20cabb1088d2
+2025-04-05 20:14:26 info: Checking platform owner setup
+2025-04-05 20:14:26 info: Owner created with id: af17ee9a-eb97-403b-94a1-5d1e629e061a
+2025-04-05 20:14:26 info: Platform setup completed
+2025-04-05 20:14:26 info: Platform setup
+2025-04-05 20:14:26 info: Usuario de prueba creado (GYM) - Juan Pérez
+2025-04-05 20:14:26 info: Usuario de prueba creado (GYM) - Ana Gómez
+2025-04-05 20:14:26 info: Usuario de prueba creado (GYM) - Carlos López
+2025-04-05 20:14:26 info: Usuario de prueba creado (GYM) - María Rodríguez
+2025-04-05 20:14:26 info: Usuario de prueba creado (GYM) - José Martínez
+2025-04-05 20:14:26 info: Usuario de prueba creado (GYM) - Luisa García
+2025-04-05 20:14:26 info: Usuario de prueba creado (GYM) - Pedro Hernández
+2025-04-05 20:14:26 info: Usuario de prueba creado (GYM) - Laura Sánchez
+2025-04-05 20:14:26 info: Usuario de prueba creado (GYM) - Miguel Martín
+2025-04-05 20:14:26 info: Usuario de prueba creado (GYM) - Elena Pérez
+2025-04-05 20:14:26 info: Server running on port 3000
+2025-04-05 20:15:21 error: Error en la validación del formulario:
+2025-04-05 20:15:21 error: [object Object]
+2025-04-05 20:15:28 error: Se produjo un error en create gym platform controller
+2025-04-05 20:16:04 info: Database connected
+2025-04-05 20:16:05 info: Database synced
+2025-04-05 20:16:05 info: Checking platform setup...
+2025-04-05 20:16:05 info: Platform created with id: c4bb1458-7d3c-4cc6-9772-88fe10347be1
+2025-04-05 20:16:05 info: Checking platform owner role setup
+2025-04-05 20:16:05 info: Owner role created with id: 1732c94b-156c-4586-ab0d-dca323cbcda4
+2025-04-05 20:16:05 info: Checking platform admin role setup
+2025-04-05 20:16:05 info: Admin role created with id: e789f0d0-f6e2-4954-9818-7a1345a4726a
+2025-04-05 20:16:05 info: Checking platform operator role setup
+2025-04-05 20:16:05 info: Operator role created with id: 563aa9d4-8f09-4b9b-a0f2-3e8fc91a95cb
+2025-04-05 20:16:05 info: Checking platform owner setup
+2025-04-05 20:16:05 info: Owner created with id: 34038149-c32b-4d02-bf58-3952508c2163
+2025-04-05 20:16:05 info: Platform setup completed
+2025-04-05 20:16:05 info: Platform setup
+2025-04-05 20:16:05 info: Usuario de prueba creado (GYM) - Juan Pérez
+2025-04-05 20:16:05 info: Usuario de prueba creado (GYM) - Ana Gómez
+2025-04-05 20:16:05 info: Usuario de prueba creado (GYM) - Carlos López
+2025-04-05 20:16:05 info: Usuario de prueba creado (GYM) - María Rodríguez
+2025-04-05 20:16:05 info: Usuario de prueba creado (GYM) - José Martínez
+2025-04-05 20:16:05 info: Usuario de prueba creado (GYM) - Luisa García
+2025-04-05 20:16:05 info: Usuario de prueba creado (GYM) - Pedro Hernández
+2025-04-05 20:16:05 info: Usuario de prueba creado (GYM) - Laura Sánchez
+2025-04-05 20:16:05 info: Usuario de prueba creado (GYM) - Miguel Martín
+2025-04-05 20:16:05 info: Usuario de prueba creado (GYM) - Elena Pérez
+2025-04-05 20:16:05 info: Server running on port 3000
+2025-04-05 20:17:27 error: Se produjo un error en create gym platform controller
+2025-04-05 20:18:36 info: Database connected
+2025-04-05 20:18:37 info: Database synced
+2025-04-05 20:18:37 info: Checking platform setup...
+2025-04-05 20:18:37 info: Platform created with id: 1526abe8-3895-4ed3-87d8-1f85cc9806ba
+2025-04-05 20:18:37 info: Checking platform owner role setup
+2025-04-05 20:18:37 info: Owner role created with id: 8c2f605e-93f2-46d7-aa55-cc48a81e9c96
+2025-04-05 20:18:37 info: Checking platform admin role setup
+2025-04-05 20:18:37 info: Admin role created with id: 3bc8b398-3952-4d41-9f26-cb9979bb3a0c
+2025-04-05 20:18:37 info: Checking platform operator role setup
+2025-04-05 20:18:37 info: Operator role created with id: 8e526d36-1738-4aa1-aad5-c7915e8ab0f4
+2025-04-05 20:18:37 info: Checking platform owner setup
+2025-04-05 20:18:37 info: Owner created with id: 55ede46d-ab7c-47fc-a938-1de3ea43f01b
+2025-04-05 20:18:37 info: Platform setup completed
+2025-04-05 20:18:37 info: Platform setup
+2025-04-05 20:18:37 info: Usuario de prueba creado (GYM) - Juan Pérez
+2025-04-05 20:18:37 info: Usuario de prueba creado (GYM) - Ana Gómez
+2025-04-05 20:18:37 info: Usuario de prueba creado (GYM) - Carlos López
+2025-04-05 20:18:37 info: Usuario de prueba creado (GYM) - María Rodríguez
+2025-04-05 20:18:37 info: Usuario de prueba creado (GYM) - José Martínez
+2025-04-05 20:18:37 info: Usuario de prueba creado (GYM) - Luisa García
+2025-04-05 20:18:37 info: Usuario de prueba creado (GYM) - Pedro Hernández
+2025-04-05 20:18:37 info: Usuario de prueba creado (GYM) - Laura Sánchez
+2025-04-05 20:18:37 info: Usuario de prueba creado (GYM) - Miguel Martín
+2025-04-05 20:18:37 info: Usuario de prueba creado (GYM) - Elena Pérez
+2025-04-05 20:18:37 info: Server running on port 3000
+2025-04-05 20:19:55 info: Database connected
