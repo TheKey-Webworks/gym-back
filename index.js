@@ -25,7 +25,7 @@ async function startServer() {
         await sequelize.authenticate()
         logger.info("Database connected")
 
-        await sequelize.sync({ force: true })
+        await sequelize.sync({ force: false })
         logger.info("Database synced")
 
 

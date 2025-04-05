@@ -67,7 +67,7 @@ async function query({ name, branches, gymOwner: gymOwnerId, fee, discount, disc
             }
 
             await __gym.setGymUser(cgUser, { transaction: queryTransaction })
-
+            await queryTransaction.commit()
 
             queryResult.message = "Gimnasio añadido correctamente"
             queryResult.success = true
